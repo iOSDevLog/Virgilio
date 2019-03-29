@@ -589,7 +589,7 @@ The most of the remaining math you need is <bpt id="5">[</bpt>here<ept id="5">]<
         <target xml:lang="en-US"></target>
       </trans-unit>
       <trans-unit id="144">
-        <source xml:lang="en-US"> <bpt id="1">_</bpt>Tips & Best practices:<ept id="1">_</ept>
+        <source xml:lang="en-US"> <bpt id="1">_</bpt>Tips &amp; Best practices:<ept id="1">_</ept>
  <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://dzone.com/articles/10-interesting-use-cases-for-the-k-means-algorithm<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://medium.com/@blazetamareborn/practicing-clustering-techniques-on-survey-dataset-f7d7a322e6ff<ept id="7">)</ept>, <bpt id="8">[</bpt>4<ept id="8">]</ept><bpt id="9">(</bpt>https://www.analyticsindiamag.com/most-popular-clustering-algorithms-used-in-machine-learning/<ept id="9">)</ept>, <bpt id="10">[</bpt>5<ept id="10">]</ept><bpt id="11">(</bpt>https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/<ept id="11">)</ept>.</source>
         <target xml:lang="en-US"></target>
       </trans-unit>
@@ -827,7 +827,7 @@ These <bpt id="1">[</bpt>1<ept id="1">]</ept><bpt id="2">(</bpt>https://jacobbuc
         <target xml:lang="en-US"></target>
       </trans-unit>
       <trans-unit id="202">
-        <source xml:lang="en-US"><bpt id="1">_</bpt>Tips & Best practices:<ept id="1">_</ept>
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Tips &amp; Best practices:<ept id="1">_</ept>
 <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://developers.google.com/machine-learning/crash-course/training-neural-networks/best-practices<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://hackernoon.com/8-deep-learning-best-practices-i-learned-about-in-2017-700f32409512<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://towardsdatascience.com/10-things-to-think-about-before-starting-to-code-your-deep-neural-network-65094a1e7c08<ept id="7">)</ept>, <bpt id="8">[</bpt>4<ept id="8">]</ept><bpt id="9">(</bpt>https://towardsdatascience.com/how-to-increase-the-accuracy-of-a-neural-network-9f5d1c6f407d<ept id="9">)</ept>, <bpt id="10">[</bpt>5<ept id="10">]</ept><bpt id="11">(</bpt>https://www.reddit.com/r/MachineLearning/comments/abj1mc/d_notes_on_why_deep_neural_networks_are_able_to/<ept id="11">)</ept>, <bpt id="12">[</bpt>6<ept id="12">]</ept><bpt id="13">(</bpt>https://www.reddit.com/r/MachineLearning/comments/abj1mc/d_notes_on_why_deep_neural_networks_are_able_to/<ept id="13">)</ept>, <bpt id="14">[</bpt>7<ept id="14">]</ept><bpt id="15">(</bpt>http://karpathy.github.io/neuralnets/<ept id="15">)</ept>, <bpt id="16">[</bpt>8<ept id="16">]</ept><bpt id="17">(</bpt>https://medium.com/cracking-the-data-science-interview/a-gentle-introduction-to-neural-networks-for-machine-learning-d5f3f8987786<ept id="17">)</ept>.</source>
         <target xml:lang="en-US"></target>
       </trans-unit>
@@ -864,7 +864,7 @@ These <bpt id="1">[</bpt>1<ept id="1">]</ept><bpt id="2">(</bpt>https://jacobbuc
         <target xml:lang="en-US"></target>
       </trans-unit>
       <trans-unit id="211">
-        <source xml:lang="en-US"><bpt id="1">_</bpt>Tips & Best practices:<ept id="1">_</ept>
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Tips &amp; Best practices:<ept id="1">_</ept>
 <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture/<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://arxiv.org/abs/1709.02601<ept id="7">)</ept>, <bpt id="8">[</bpt>4<ept id="8">]</ept><bpt id="9">(</bpt>https://de.mathworks.com/matlabcentral/answers/362024-convolutional-neural-networks-what-is-the-best-practice-training-approach-using-graphics-cards<ept id="9">)</ept>, <bpt id="10">[</bpt>5<ept id="10">]</ept><bpt id="11">(</bpt>http://www.academia.edu/4057996/Best_Practices_for_Convolutional_Neural_Networks_Applied_to_Visual_Document_Analysis<ept id="11">)</ept>, <bpt id="12">[</bpt>6<ept id="12">]</ept><bpt id="13">(</bpt>https://www.microsoft.com/en-us/research/publication/best-practices-for-convolutional-neural-networks-applied-to-visual-document-analysis/<ept id="13">)</ept>, <bpt id="14">[</bpt>7<ept id="14">]</ept><bpt id="15">(</bpt>https://missinglink.ai/guides/neural-network-concepts/neural-networks-image-recognition-methods-best-practices-applications/<ept id="15">)</ept>, <bpt id="16">[</bpt>8<ept id="16">]</ept><bpt id="17">(</bpt>https://machinelearningmastery.com/best-practices-document-classification-deep-learning/<ept id="17">)</ept>.</source>
         <target xml:lang="en-US"></target>
       </trans-unit>
@@ -905,7 +905,7 @@ These <bpt id="1">[</bpt>1<ept id="1">]</ept><bpt id="2">(</bpt>https://jacobbuc
         <target xml:lang="en-US"></target>
       </trans-unit>
       <trans-unit id="221">
-        <source xml:lang="en-US"><bpt id="1">_</bpt>Tips & Best practices:<ept id="1">_</ept>
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Tips &amp; Best practices:<ept id="1">_</ept>
 <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://danijar.com/tips-for-training-recurrent-neural-networks/<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://svail.github.io/rnn_perf/<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://towardsdatascience.com/rnn-training-tips-and-tricks-2bf687e67527<ept id="7">)</ept>, <bpt id="8">[</bpt>4<ept id="8">]</ept><bpt id="9">(</bpt>http://slazebni.cs.illinois.edu/spring17/lec20_rnn.pdf<ept id="9">)</ept>, <bpt id="10">[</bpt>5<ept id="10">]</ept><bpt id="11">(</bpt>https://www.quora.com/What-are-the-best-practices-for-choosing-hidden-state-size-in-RNNs<ept id="11">)</ept>, <bpt id="12">[</bpt>6<ept id="12">]</ept><bpt id="13">(</bpt>https://www.quora.com/Can-recurrent-neural-networks-with-LSTM-be-used-for-time-series-prediction<ept id="13">)</ept>, <bpt id="14">[</bpt>7<ept id="14">]</ept><bpt id="15">(</bpt>https://www.reddit.com/r/MachineLearning/comments/5ogbd5/d_training_lstms_in_practice_tips_and_tricks/<ept id="15">)</ept>.</source>
         <target xml:lang="en-US"></target>
       </trans-unit>
@@ -992,7 +992,7 @@ I <bpt id="2">**</bpt>strongly recommend<ept id="2">**</ept> you to refer to <bp
         <target xml:lang="en-US"></target>
       </trans-unit>
       <trans-unit id="242">
-        <source xml:lang="en-US"> <bpt id="1">_</bpt>Tips & Best practices:<ept id="1">_</ept>
+        <source xml:lang="en-US"> <bpt id="1">_</bpt>Tips &amp; Best practices:<ept id="1">_</ept>
  <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://stats.stackexchange.com/questions/257163/architecture-of-autoencoders<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://stats.stackexchange.com/questions/193780/how-much-noise-for-denoising-autoencoder<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://www.reddit.com/r/MachineLearning/comments/6aw8ik/d_reddit_do_you_use_autoencoders_in_practice/<ept id="7">)</ept>, <bpt id="8">[</bpt>4<ept id="8">]</ept><bpt id="9">(</bpt>https://www.reddit.com/r/MachineLearning/comments/89f17m/d_current_best_practices_for_vaes/<ept id="9">)</ept>, <bpt id="10">[</bpt>5<ept id="10">]</ept><bpt id="11">(</bpt>https://www.reddit.com/r/MachineLearning/comments/5k8h07/p_insights_into_variational_autoencoders_for/<ept id="11">)</ept>.</source>
         <target xml:lang="en-US"></target>
       </trans-unit>
@@ -1038,7 +1038,7 @@ I <bpt id="2">**</bpt>strongly recommend<ept id="2">**</ept> you to refer to <bp
         <target xml:lang="en-US"></target>
       </trans-unit>
       <trans-unit id="253">
-        <source xml:lang="en-US"> <bpt id="1">_</bpt>Tips & Best practices:<ept id="1">_</ept>
+        <source xml:lang="en-US"> <bpt id="1">_</bpt>Tips &amp; Best practices:<ept id="1">_</ept>
  <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://medium.com/@BonsaiAI/deep-reinforcement-learning-models-tips-tricks-for-writing-reward-functions-a84fe525e8e0<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12<ept id="5">)</ept>.</source>
         <target xml:lang="en-US"></target>
       </trans-unit>

@@ -266,7 +266,7 @@ When plotting functions, we don't always want the range that WA suggests, so <bp
         <target xml:lang="zh-Hans"></target>
       </trans-unit>
       <trans-unit id="65">
-        <source xml:lang="en-US">As an example, we solve the simultaneous system of inequalities <bpt id="1">`</bpt>x y > 3<ept id="1">`</ept> and <bpt id="2">`</bpt>x + y < 0<ept id="2">`</ept> by typing in <bpt id="3">[</bpt><bpt id="4">`</bpt>Reduce[{x + y < 0, x y > 3}, {x,y}]<ept id="4">`</ept><ept id="3">]</ept><bpt id="5">(</bpt>https://www.wolframalpha.com/input/?i=Reduce%5B%7Bx+%2B+y+%3C+0,+x+y+%3E+3%7D,+%7Bx,y%7D%5D<ept id="5">)</ept></source>
+        <source xml:lang="en-US">As an example, we solve the simultaneous system of inequalities <bpt id="1">`</bpt>x y > 3<ept id="1">`</ept> and <bpt id="2">`</bpt>x + y &lt; 0<ept id="2">`</ept> by typing in <bpt id="3">[</bpt><bpt id="4">`</bpt>Reduce[{x + y &lt; 0, x y > 3}, {x,y}]<ept id="4">`</ept><ept id="3">]</ept><bpt id="5">(</bpt>https://www.wolframalpha.com/input/?i=Reduce%5B%7Bx+%2B+y+%3C+0,+x+y+%3E+3%7D,+%7Bx,y%7D%5D<ept id="5">)</ept></source>
         <target xml:lang="zh-Hans"></target>
       </trans-unit>
       <trans-unit id="66">
