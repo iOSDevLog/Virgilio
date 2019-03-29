@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file original="Careers/Machine Learning Engineer Career Path/README.md"
+  <file original="LearningPaths/Machine Learning Engineer Career Path/README.md"
     source-language="en-US" target-language="en-US" datatype="markdown">
     <header>
       <skl>
-        <external-file href="Careers/Machine Learning Engineer Career Path/README.en-US.skl"/>
+        <external-file href="LearningPaths/Machine Learning Engineer Career Path/README.en-US.skl"/>
       </skl>
     </header>
     <body>
@@ -101,7 +101,7 @@
         <target xml:lang="en-US"></target>
       </trans-unit>
       <trans-unit id="24">
-        <source xml:lang="en-US">Unsupervised Learning --- <bpt id="1">**</bpt>new<ept id="1">**</ept></source>
+        <source xml:lang="en-US">Unsupervised Learning </source>
         <target xml:lang="en-US"></target>
       </trans-unit>
       <trans-unit id="25">
