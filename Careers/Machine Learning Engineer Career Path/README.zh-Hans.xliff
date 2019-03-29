@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="Careers/Machine Learning Engineer Career Path/README.md"
+    source-language="en-US" target-language="zh-Hans" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="Careers/Machine Learning Engineer Career Path/README.zh-Hans.skl"/>
+      </skl>
+    </header>
+    <body>
+      <trans-unit id="1">
+        <source xml:lang="en-US">Machine Learning Engineer</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:lang="en-US">A complete ML study path, focused on TensorFlow and Scikit-Learn</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:lang="en-US">I <bpt id="1">**</bpt>strongly recommend<ept id="1">**</ept> you to buy <bpt id="2">[</bpt><bpt id="3">**</bpt>this<ept id="3">**</ept><ept id="2">]</ept><bpt id="4">(</bpt>https://www.amazon.it/Hands-Machine-Learning-Scikit-Learn-Tensorflow/dp/1491962291/ref=pd_sbs_14_1/260-9599700-1757805?_encoding=UTF8&amp;pd_rd_i=1491962291&pd_rd_r=23993915-4513-11e9-ad92-43c54a5a8a65&pd_rd_w=QNr5b&pd_rd_wg=Si7Nj&pf_rd_p=37660d27-94f1-4ebe-be01-184b332a9b15&pf_rd_r=SF0KMBGABMY3T790JY7Z&psc=1&refRID=SF0KMBGABMY3T790JY7Z<ept id="4">)</ept> phenomenal book: "Hands-On Machine Learning with Scikit-Learn and TensorFlow" by O'Reilly, which inspired me and has driven most of the organization and hierarchy of the content listed below.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:lang="en-US">Apart from this, <bpt id="1">**</bpt>everything<ept id="1">**</ept> listed here is open source and free, from world-renowned universities and open source associations.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:lang="en-US">It is necessary to avoid confusion when we learn something new, especially when the topic is as wide and complex as Machine Learning.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:lang="en-US">When possible, I tried to create the next steps of the path preferring content from the same author or context.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:lang="en-US">Otherwise, I collected both theory and examples, as well as pointers to best resources.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:lang="en-US">The examples and resources are listed as “best practices for <bpt id="1">__</bpt>_<ept id="1">__</ept>”.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:lang="en-US">I organized the Path in 4 sections:</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:lang="en-US">Prerequisites</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:lang="en-US">Python</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:lang="en-US">Jupyter Notebook</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:lang="en-US">The Math you need</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source xml:lang="en-US">The Machine Learning landscape</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source xml:lang="en-US">Machine learning with Scikit-Learn</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source xml:lang="en-US">Why Scikit-Learn?</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source xml:lang="en-US">End-to-End Machine Learning project </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source xml:lang="en-US">Linear Regression </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source xml:lang="en-US">Classification</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source xml:lang="en-US">Training models</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source xml:lang="en-US">Support Vector Machines</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source xml:lang="en-US">Decision Trees</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source xml:lang="en-US">Ensemble Learning and Random Forest </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source xml:lang="en-US">Unsupervised Learning --- <bpt id="1">**</bpt>new<ept id="1">**</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source xml:lang="en-US">Wrapping up and looking forward</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source xml:lang="en-US">Neural Networks with TensorFlow</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source xml:lang="en-US">Why TensorFlow?</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source xml:lang="en-US">Up and Running with TensorFlow</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source xml:lang="en-US">ANN - Artificial Neural Networks </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source xml:lang="en-US">CNN - Convolutional Neural Networks</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source xml:lang="en-US">RNN - Recurrent Neural Networks</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source xml:lang="en-US">Training Networks: Best practices </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source xml:lang="en-US">AutoEncoders</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source xml:lang="en-US">Reinforcement Learning</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source xml:lang="en-US">Next steps</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source xml:lang="en-US">Utilities</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source xml:lang="en-US">Machine Learning Projects </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source xml:lang="en-US">Data Science Tools</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source xml:lang="en-US">Blogs / YouTube Channels / Websites worth taking a look!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source xml:lang="en-US">So let's get started!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source xml:lang="en-US">Prerequisites</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source xml:lang="en-US">Python</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source xml:lang="en-US">According to Sun Tzu:</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source xml:lang="en-US">If you don't know Python, learn it yesterday!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source xml:lang="en-US">Python is one of the most used and loved programming languages, and it's necessary to get things done in the Machine Learning field.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source xml:lang="en-US">Like most of the frameworks of the bigger Data Science field, TensorFlow is married with Python and Scikit-Learn is written in Python.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source xml:lang="en-US"> </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source xml:lang="en-US">First, let's <bpt id="1">[</bpt>install Python 3<ept id="1">]</ept><bpt id="2">(</bpt>https://realpython.com/installing-python/<ept id="2">)</ept> on your machine!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source xml:lang="en-US">We are ready to start our journey!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source xml:lang="en-US">If you don't know the basics of Python, just start from <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://pythonprogramming.net/introduction-learn-python-3-tutorials/<ept id="2">)</ept>.\
+Else if you know the syntax and you want to have a more solid Python background (recommended) take this Intermediate Python Course from <bpt id="3">[</bpt>here<ept id="3">]</ept><bpt id="4">(</bpt>https://pythonprogramming.net/introduction-intermediate-python-tutorial/<ept id="4">)</ept>.\
+If you are looking for tons of exercises to get your hands dirty and get experience with Python, check <bpt id="5">[</bpt>here<ept id="5">]</ept><bpt id="6">(</bpt>https://www.w3resource.com/python-exercises/<ept id="6">)</ept> and <bpt id="7">[</bpt>here<ept id="7">]</ept><bpt id="8">(</bpt>https://www.practicepython.org/<ept id="8">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source xml:lang="en-US">Once you're familiar with Python, take a look at <bpt id="1">[</bpt>Numpy<ept id="1">]</ept><bpt id="2">(</bpt>https://docs.scipy.org/doc/numpy-1.13.0/user/whatisnumpy.html<ept id="2">)</ept>, an important module for math operations, that allows you to import in Python the <bpt id="3">[</bpt>Tensor<ept id="3">]</ept><bpt id="4">(</bpt>https://www.kdnuggets.com/2018/05/wtf-tensor.html<ept id="4">)</ept> data type, which is the most used in ML (especially when dealing with Neural Nets).</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source xml:lang="en-US">A tensor <bpt id="1">[</bpt>is not a matrix!<ept id="1">]</ept><bpt id="2">(</bpt>https://medium.com/@quantumsteinke/whats-the-difference-between-a-matrix-and-a-tensor-4505fbdc576c<ept id="2">)</ept>
+This is an awesome <bpt id="3">[</bpt>Numpy Tutorial<ept id="3">]</ept><bpt id="4">(</bpt>http://cs231n.github.io/python-numpy-tutorial/<ept id="4">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source xml:lang="en-US">I also recommend you to install the <bpt id="1">[</bpt>PyCharm Community Edition<ept id="1">]</ept><bpt id="2">(</bpt>https://www.jetbrains.com/pycharm/download/#section=windows<ept id="2">)</ept>, a complete IDE for Python development, and <bpt id="3">[</bpt>set a new Python virtual environment<ept id="3">]</ept><bpt id="4">(</bpt>https://www.jetbrains.com/help/pycharm/creating-virtual-environment.html<ept id="4">)</ept> for your experiments.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source xml:lang="en-US">Jupyter Notebook</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source xml:lang="en-US">Directly from <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://jupyter.org/<ept id="2">)</ept>: "The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source xml:lang="en-US">Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more."
+Working with data means -> a lot of experiments.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source xml:lang="en-US">And to document experiments, and organize them in a valuable way to get insights, you definitely need to use Jupyter Notebook during your journey.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Why<ept id="1">]</ept><bpt id="2">(</bpt>http://blendedlearning.blogs.brynmawr.edu/what-are-jupyter-notebooks-why-would-i-want-to-use-them/<ept id="2">)</ept>?</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source xml:lang="en-US">The math you need</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source xml:lang="en-US">Whoever tells you that the math behind Machine Learning is hard... is not so wrong!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source xml:lang="en-US">But you have to consider that every time you're going to use it, it will be handled by the machine for you!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source xml:lang="en-US">So, the important is to grasp the main concepts and recognize limits and applications of those.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source xml:lang="en-US">No one is going to ask you to calculate a gradient by hand!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source xml:lang="en-US">So, if you are not familiar with these concepts, check them, because they are the reason behind everything.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source xml:lang="en-US">With these three resources, you'll get out the most of what you really need to understand deeply.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source xml:lang="en-US">A top course about linear algebra is <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/<ept id="2">)</ept>.\
+Integration with basic probabilities and statistical concepts <bpt id="3">[</bpt>here<ept id="3">]</ept><bpt id="4">(</bpt>https://www.edx.org/course/introduction-to-probability-0<ept id="4">)</ept>.\
+The most of the remaining math you need is <bpt id="5">[</bpt>here<ept id="5">]</ept><bpt id="6">(</bpt>https://explained.ai/matrix-calculus/index.html#sec4.5<ept id="6">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source xml:lang="en-US">The machine learning Landscape</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source xml:lang="en-US">Directly from the book cited earlier, this is the most concise and illuminating overview of <bpt id="1">**</bpt>what is<ept id="1">**</ept> and <bpt id="2">**</bpt>when you need<ept id="2">**</ept> machine learning.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source xml:lang="en-US">Let's stop using buzzwords!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source xml:lang="en-US">Check it <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/ch01.html<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source xml:lang="en-US">Also this is <bpt id="1">[</bpt>a must<ept id="1">]</ept><bpt id="2">(</bpt>http://www.r2d3.us/visual-intro-to-machine-learning-part-1/<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source xml:lang="en-US">Machine Learning with Scikit-Learn</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source xml:lang="en-US">To install Scikit-Learn </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source xml:lang="en-US">If you encounter some problems, it may be because you don't have the latest version of pip.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source xml:lang="en-US">So in the same folder run:</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source xml:lang="en-US">Why Scikit-Learn</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Scikit-Learn<ept id="1">]</ept><bpt id="2">(</bpt>https://scikit-learn.org/stable/<ept id="2">)</ept> is one of the most complete, mature and well-documented libraries for Machine Learning tasks.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source xml:lang="en-US">It comes out-of-the-box with powerful and advanced models that offers facility functions for the data science process.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source xml:lang="en-US">We'll learn and use other modules along the road.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source xml:lang="en-US">For a quick usage just look at their official documentation.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source xml:lang="en-US">End-to-End Machine Learning project</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source xml:lang="en-US">For a first taste, I suggest you go through <bpt id="1">[</bpt>this<ept id="1">]</ept><bpt id="2">(</bpt>https://www.kaggle.com/startupsci/titanic-data-science-solutions<ept id="2">)</ept> Kaggle notebook, which has a classical example of an ML task.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source xml:lang="en-US">The goal is to try to predict if a Titanic passenger would have been most likely to survive or not.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source xml:lang="en-US">Many things will be unclear for now, but don't worry, they will all be explained comprehensively later.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source xml:lang="en-US">It is nice to get the picture of the "applied" project, going through the classical steps of applied Machine Learning (problem framing, data exploration, question formulation...).</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source xml:lang="en-US">The notebook is on <bpt id="1">[</bpt>Kaggle<ept id="1">]</ept><bpt id="2">(</bpt>https://www.kaggle.com/<ept id="2">)</ept>, the go-to platform for ML and general Data Science projects, which provides a lot of free datasets and offers interesting challenges and ML model experiments.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source xml:lang="en-US">Remember: Read the notebook and try to understand the big picture of the process.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source xml:lang="en-US">Some details, functions and code will be clearer later.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source xml:lang="en-US">Linear Regression</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source xml:lang="en-US">This is the simplest form of Machine Learning, and the starting point for everyone interested in predicting outcomes from a dataset.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source xml:lang="en-US">Check <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=W46UTQ_JDPk&amp;list=PLoR5VjrKytrCv-Vxnhp5UyS1UjZsXP0Kj&index=2<ept id="2">)</ept> the theoretical lesson from Andrew NG and then go through these examples, from the simplest to the most complex.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This<ept id="1">]</ept><bpt id="2">(</bpt>https://www.geeksforgeeks.org/ml-normal-equation-in-linear-regression/<ept id="2">)</ept> is the math behind Linear Regression.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Example 1<ept id="1">]</ept><bpt id="2">(</bpt>https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html#sphx-glr-auto-examples-linear-model-plot-ols-py<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Example 2<ept id="1">]</ept><bpt id="2">(</bpt>https://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Example 3<ept id="1">]</ept><bpt id="2">(</bpt>https://www.geeksforgeeks.org/linear-regression-python-implementation/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Put your hands on<ept id="1">_</ept>: <bpt id="2">[</bpt>This<ept id="2">]</ept><bpt id="3">(</bpt>https://www.kaggle.com/c/afsis-soil-properties<ept id="3">)</ept> is a really good challenge, tackle it before going to the next section.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source xml:lang="en-US">Classification</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source xml:lang="en-US">Classification is one of the most important ML tasks, when wanting to predict an outcome out of different possibilities.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source xml:lang="en-US">For example, given handwritten digits, classify them with the lowest error possible.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source xml:lang="en-US">The simplest case is binary classification (Yes or No, Survived or Not Survived), have a look <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://machinelearningmastery.com/make-predictions-scikit-learn/<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source xml:lang="en-US">Check <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://towardsdatascience.com/building-a-logistic-regression-in-python-301d27367c24<ept id="2">)</ept> for a brief explanation of the theory of logistic regression for classification, and check <bpt id="3">[</bpt>here<ept id="3">]</ept><bpt id="4">(</bpt>https://www.youtube.com/watch?v=VCJdg7YBbAQ<ept id="4">)</ept> for a deeper comprehension (using the Titanic dataset).</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source xml:lang="en-US">You can use a lot of different ML models to classify things, even neural networks!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source xml:lang="en-US">For now, just take a look <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html<ept id="2">)</ept>, where you see an example of accuracy and recall comparison among different models.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://medium.com/thalus-ai/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b<ept id="2">)</ept> you have an article about the metrics used to <bpt id="3">**</bpt>evaluate<ept id="3">**</ept> your classifiers.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source xml:lang="en-US">Training models</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source xml:lang="en-US">Here I grouped some of the techniques used in ML tasks to train the models.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source xml:lang="en-US">In this Google Crash Course you find:</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Gradient Descent<ept id="1">]</ept><bpt id="2">(</bpt>https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Learning Rate<ept id="1">]</ept><bpt id="2">(</bpt>https://developers.google.com/machine-learning/crash-course/reducing-loss/learning-rate<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>SGD<ept id="1">]</ept><bpt id="2">(</bpt>https://developers.google.com/machine-learning/crash-course/reducing-loss/stochastic-gradient-descent<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Regularization<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=Q81RR3yKn30<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source xml:lang="en-US">Support Vector Machines</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source xml:lang="en-US">This is another classical algorithm to create ML models.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=_PwhiWxHK8o<ept id="2">)</ept> you have the explanation of the theory, and <bpt id="3">[</bpt>here<ept id="3">]</ept><bpt id="4">(</bpt>https://www.youtube.com/watch?v=g8D5YL6cOSE<ept id="4">)</ept> a more practical approach.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source xml:lang="en-US">Check both.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://scikit-learn.org/stable/modules/svm.html<ept id="2">)</ept> is a very good explanation + practice application in Scikit-Learn.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source xml:lang="en-US">Decision Trees</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source xml:lang="en-US">Decision Trees are one of the most simple but effective ideas behind predicting outcomes, and they're used in many ways (e.g.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source xml:lang="en-US">Random Forest).</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source xml:lang="en-US">Check <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=eKD5gxPPeY0&amp;list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO<ept id="2">)</ept> and go through the playlist to get a theoretical overview of Decision Trees (ID3).</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://scikit-learn.org/stable/modules/tree.html<ept id="2">)</ept> you have the practical application of ID3.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source xml:lang="en-US">Here you have some end-to-end examples with Scikit-Learn:</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Example 1<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=9YcMzsFvfxU<ept id="2">)</ept> </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Example 2<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=RmajweUFKvM<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Example 3<ept id="1">]</ept><bpt id="2">(</bpt>http://dataaspirant.com/2017/02/01/decision-tree-algorithm-python-with-scikit-learn/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Example 4<ept id="1">]</ept><bpt id="2">(</bpt>https://mathspp.blogspot.com/2018/08/teaching-robot-how-to-vacuum-clean-with.html<ept id="2">)</ept> couples decision trees with genetic algorithms.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source xml:lang="en-US">Ensemble Learning and Random Forest</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source xml:lang="en-US">The idea of Ensemble Learning is to leverage all the different features, pros and cons of several ML models to obtain a group of "voters" that, for each prediction, gives you the most likely outcome, voted by different classifiers (SVM, ID3, maybe Logistic Regression).</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source xml:lang="en-US">
+<bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=9VmKYwX_U7s<ept id="2">)</ept> you get the basics of ensemble learning model, and <bpt id="3">[</bpt>here<ept id="3">]</ept><bpt id="4">(</bpt>https://www.youtube.com/watch?v=3kYujfDgmNk<ept id="4">)</ept> you find the most classic of them, the Random Forest.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source xml:lang="en-US">Although the idea is simple, this ensemble model turned out to be really effective in tackling even some "hard" classification problems, or with a lot of data.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://scikit-learn.org/stable/modules/ensemble.html<ept id="2">)</ept> you get a complete overview of the best practices for ensemble learning, and <bpt id="3">[</bpt>here<ept id="3">]</ept><bpt id="4">(</bpt>https://towardsdatascience.com/random-forest-in-python-24d0893d51c0<ept id="4">)</ept> you find an example of Random Forest with Scikit-Learn.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source xml:lang="en-US">Both links come with a bunch of useful techniques to use in practice.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source xml:lang="en-US">Unsupervised Learning</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>First look (in order):<ept id="1">_</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=8dqdDEyzkFA&amp;t=14s<ept id="2">)</ept> you have a brief introductory video.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This<ept id="1">]</ept><bpt id="2">(</bpt>https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03<ept id="2">)</ept> article explains Unsupervised Learning really well.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/<ept id="2">)</ept> is an interesting read about the difference among Supervised Learning, Unsupervised Learning, and Reinforcement Learning.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source xml:lang="en-US">The two most important techniques here are <bpt id="1">[</bpt>Association Rules Exploration<ept id="1">]</ept><bpt id="2">(</bpt>https://searchbusinessanalytics.techtarget.com/definition/association-rules-in-data-mining<ept id="2">)</ept> and <bpt id="3">[</bpt>Clustering<ept id="3">]</ept><bpt id="4">(</bpt>https://www.geeksforgeeks.org/clustering-in-machine-learning/<ept id="4">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source xml:lang="en-US">I provide examples and tutorials for both.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source xml:lang="en-US">Association Rules tutorials and examples: <bpt id="1">[</bpt>1<ept id="1">]</ept><bpt id="2">(</bpt>https://www.learndatasci.com/tutorials/k-means-clustering-algorithms-python-intro/<ept id="2">)</ept>, <bpt id="3">[</bpt>2<ept id="3">]</ept><bpt id="4">(</bpt>https://towardsdatascience.com/an-introduction-to-clustering-algorithms-in-python-123438574097<ept id="4">)</ept>, <bpt id="5">[</bpt>3<ept id="5">]</ept><bpt id="6">(</bpt>https://pythonprogramming.net/flat-clustering-machine-learning-python-scikit-learn/<ept id="6">)</ept>, <bpt id="7">[</bpt>4<ept id="7">]</ept><bpt id="8">(</bpt>https://www.datacamp.com/community/tutorials/k-means-clustering-python<ept id="8">)</ept>, <bpt id="9">[</bpt>5<ept id="9">]</ept><bpt id="10">(</bpt>https://stackabuse.com/hierarchical-clustering-with-python-and-scikit-learn/<ept id="10">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source xml:lang="en-US">Clustering tutorials and examples: <bpt id="1">[</bpt>1<ept id="1">]</ept><bpt id="2">(</bpt>https://pbpython.com/market-basket-analysis.html<ept id="2">)</ept>, <bpt id="3">[</bpt>2<ept id="3">]</ept><bpt id="4">(</bpt>http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/<ept id="4">)</ept>, <bpt id="5">[</bpt>3<ept id="5">]</ept><bpt id="6">(</bpt>https://stackabuse.com/association-rule-mining-via-apriori-algorithm-in-python/<ept id="6">)</ept>, <bpt id="7">[</bpt>4<ept id="7">]</ept><bpt id="8">(</bpt>http://intelligentonlinetools.com/blog/2018/02/10/how-to-create-data-visualization-for-association-rules-in-data-mining/<ept id="8">)</ept>, <bpt id="9">[</bpt>5<ept id="9">]</ept><bpt id="10">(</bpt>https://www.kaggle.com/datatheque/association-rules-mining-market-basket-analysis<ept id="10">)</ept>, <bpt id="11">[</bpt>6<ept id="11">]</ept><bpt id="12">(</bpt>https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html<ept id="12">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Second pass:<ept id="1">_</ept>
+<bpt id="2">[</bpt>Stanford slides<ept id="2">]</ept><bpt id="3">(</bpt>https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/unsupervised.pdf<ept id="3">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>MIT slides<ept id="1">]</ept><bpt id="2">(</bpt>http://www.mit.edu/~9.54/fall14/slides/Class13.pdf<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source xml:lang="en-US"> <bpt id="1">_</bpt>Tips & Best practices:<ept id="1">_</ept>
+ <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://dzone.com/articles/10-interesting-use-cases-for-the-k-means-algorithm<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://medium.com/@blazetamareborn/practicing-clustering-techniques-on-survey-dataset-f7d7a322e6ff<ept id="7">)</ept>, <bpt id="8">[</bpt>4<ept id="8">]</ept><bpt id="9">(</bpt>https://www.analyticsindiamag.com/most-popular-clustering-algorithms-used-in-machine-learning/<ept id="9">)</ept>, <bpt id="10">[</bpt>5<ept id="10">]</ept><bpt id="11">(</bpt>https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/<ept id="11">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source xml:lang="en-US">Wrapping up and looking forward</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source xml:lang="en-US">Now, if you followed all the steps and explored all the resources I posted, you're likely to be more confident with Machine Learning and have a general idea of things.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source xml:lang="en-US">Of course you need to explore and learn more, because this field is changing and enhancing techniques and approaches day-by-day!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source xml:lang="en-US">All the algorithms we've seen are widely used in the Data Science and Analytics fields, but there are some complex tasks where they fail or give really poor performances.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source xml:lang="en-US">Now we are ready to dive into the rabbit hole and try to understand how Neural Networks and Deep Learning can help tackle problems with millions of variables.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source xml:lang="en-US">
+<bpt id="1">[</bpt>Why use Deep Learning over classical ML algorithms?<ept id="1">]</ept><bpt id="2">(</bpt>https://towardsdatascience.com/why-deep-learning-is-needed-over-traditional-machine-learning-1b6a99177063<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source xml:lang="en-US">Neural Networks with TensorFlow</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source xml:lang="en-US">In this section we'll follow a track that will take us from zero knowledge about neural networks to fully understanding them, thanks to the Stanford University Deep Learning course and some tutorials I've searched over the internet.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source xml:lang="en-US">Some of them come from Google, others from Stanford or Cambridge universities, and you will learn to leverage neural networks (ANN, CNN, RNN) for several kinds of ML tasks.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source xml:lang="en-US">These are <bpt id="1">[</bpt>some use cases<ept id="1">]</ept><bpt id="2">(</bpt>https://www.digitaldoughnut.com/articles/2017/march/top-5-use-cases-of-tensorflow<ept id="2">)</ept> of using TensorFlow for ML tasks.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source xml:lang="en-US">It is not easy to understand the theory and application of Neural Networks at first glance.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source xml:lang="en-US">You will need to go through tutorials repeatedly to fully comprehend the topic.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source xml:lang="en-US">I have spent a decent amount of time trying to understand them.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source xml:lang="en-US">Reading articles, official forums, learning paths (like this) and related subreddits was <bpt id="1">**</bpt>the most effective way<ept id="1">**</ept> to deeply learn the concepts, formulae, tradeoffs...</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source xml:lang="en-US">I came up with this approach, but you can tweak it as you prefer, because every brain is different.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source xml:lang="en-US">After taking the TensorFlow section, apply this
+3-step iterative cycle:</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source xml:lang="en-US">1 Get an idea of the main concepts through an <bpt id="1">**</bpt>entire pass of this<ept id="1">**</ept> <bpt id="2">[</bpt>Stanford course<ept id="2">]</ept><bpt id="3">(</bpt>https://www.youtube.com/watch?v=vT1JzLTH4G4&amp;list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv<ept id="3">)</ept>, don't worry too much about the math explanations, focus on the <bpt id="4">**</bpt>what and why<ept id="4">**</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source xml:lang="en-US">2 Deeply explore <bpt id="1">**</bpt>one topic at a time<ept id="1">**</ept>, with theory + tutorials + examples (e.g.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source xml:lang="en-US">RNN theory + RNN tutorials + RNN examples)
+with the links and resources of the topic section of the guide.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source xml:lang="en-US">3 After iterating the 2nd step for each topic, go through the entire Stanford course again.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source xml:lang="en-US">This time you can fully understand all the formulae, connecting them and catching also the "math flow" of the course.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source xml:lang="en-US">This iterative process (1-2-2-2-2.....-3) can be repeated as many times as you want, and will probably construct in your mind a nice <bpt id="1">**</bpt>general schema<ept id="1">**</ept> of the things.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source xml:lang="en-US">In each complete iteration you can drop one or more topics, and focus on the ones that are more interesting to you or not so clear.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source xml:lang="en-US">In each section I've put content for the first time you arrive there (during the first complete iteration), and some content for next time you arrive there (after the 3rd step).</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source xml:lang="en-US">The structure follows the track proposed by the awesome Stanford course.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source xml:lang="en-US">You can find the slides <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>http://cs231n.stanford.edu/slides/2018/<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This<ept id="1">]</ept><bpt id="2">(</bpt>http://introtodeeplearning.com/<ept id="2">)</ept> is an alternative course from MIT, more or less the same contents.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source xml:lang="en-US">It's worth watching it to compare and have a different point of view on the things you are learning, besides listening 2X to the best professors of the world exploring each topic.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source xml:lang="en-US"> </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source xml:lang="en-US">This is the <bpt id="1">[</bpt><bpt id="2">**</bpt>Book<ept id="2">**</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.deeplearningbook.org/<ept id="3">)</ept> I refer to in each section.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source xml:lang="en-US">Why TensorFlow?</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source xml:lang="en-US">Created by the <bpt id="1">[</bpt>Google Brain<ept id="1">]</ept><bpt id="2">(</bpt>https://ai.google/research/teams/brain<ept id="2">)</ept> team, <bpt id="3">[</bpt>TensorFlow<ept id="3">]</ept><bpt id="4">(</bpt>https://www.tensorflow.org/<ept id="4">)</ept> is an open source library for numerical computation and large-scale machine learning.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source xml:lang="en-US">TensorFlow bundles together a slew of machine learning and deep learning (aka neural networking) models and algorithms and makes them useful by way of a common metaphor.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source xml:lang="en-US">It uses Python to provide a convenient front-end API for building applications with the framework, while executing those applications in high-performance C++.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source xml:lang="en-US">TensorFlow is the de-facto standard for the major industry-sized companies that need to implement Machine Learning algorithms.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source xml:lang="en-US">It is built for scaling, with really cool features to parallelize training over multiple GPU's or devices.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source xml:lang="en-US">Up and Running with TensorFlow</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source xml:lang="en-US">Assuming you have <bpt id="1">[</bpt>Python stored in the variable PATH<ept id="1">]</ept><bpt id="2">(</bpt>https://helpdeskgeek.com/windows-10/add-windows-path-environment-variable/<ept id="2">)</ept>, to install the TensorFlow library you just need to open a terminal inside you Python installation folder and run this command.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source xml:lang="en-US">The first read I recommend you is <bpt id="1">[</bpt>this<ept id="1">]</ept><bpt id="2">(</bpt>https://www.infoworld.com/article/3278008/what-is-tensorflow-the-machine-learning-library-explained.html<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source xml:lang="en-US">The second thing to do is to follow this <bpt id="1">[</bpt>Introduction to TensorFlow<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=tYYVSEHq-io<ept id="2">)</ept> directly from the <bpt id="3">**</bpt>awesome<ept id="3">**</ept> <bpt id="4">[</bpt>Google Education<ept id="4">]</ept><bpt id="5">(</bpt>https://ai.google/education/<ept id="5">)</ept> page.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source xml:lang="en-US">Again, some theoretical concepts might be unclear, but focus on how the TensorFlow library and processes are conceived.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source xml:lang="en-US">
+<bpt id="1">[</bpt>This<ept id="1">]</ept><bpt id="2">(</bpt>https://medium.com/@camrongodbout/tensorflow-in-a-nutshell-part-one-basics-3f4403709c9d<ept id="2">)</ept> is a good resume of the latter.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Another beginner tutorial from google<ept id="1">]</ept><bpt id="2">(</bpt>https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=k5c-vg4rjBw&amp;t=246s<ept id="2">)</ept> is about the TensorFlow 2.0 update.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source xml:lang="en-US">
+These <bpt id="1">[</bpt>1<ept id="1">]</ept><bpt id="2">(</bpt>https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/<ept id="2">)</ept> and <bpt id="3">[</bpt>2<ept id="3">]</ept><bpt id="4">(</bpt>https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/<ept id="4">)</ept> explain the "hard" things to grasp of TensorFlow.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source xml:lang="en-US">Highly recommended.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source xml:lang="en-US">Now you're most likely familiar with <bpt id="1">**</bpt>TensorFlow as a tool<ept id="1">**</ept>, and it's time to understand <bpt id="2">**</bpt>how to use<ept id="2">**</ept> it to build large scale Neural Networks.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source xml:lang="en-US">ANN - Artificial Neural Networks</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>First look (in order):<ept id="1">_</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This video<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=v2tKoymKIuE<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="195">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This is your bible<ept id="1">]</ept><bpt id="2">(</bpt>http://neuralnetworksanddeeplearning.com/chap1.html<ept id="2">)</ept>, understand it totally.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="196">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This is a gem<ept id="1">]</ept><bpt id="2">(</bpt>https://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&dataset=circle®Dataset=reg-plane&learningRate=0.03®ularizationRate=0&noise=0&networkShape=4,2&seed=0.85356&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false<ept id="2">)</ept> and read <bpt id="3">[</bpt>this<ept id="3">]</ept><bpt id="4">(</bpt>https://www.guru99.com/artificial-neural-network-tutorial.html<ept id="4">)</ept> from the authors.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=o64FV-ez6Gw&amp;t=540s<ept id="2">)</ept> is a really fast-talking guy implementing a Neural Network library from scratch, super useful to understand how the core of an NN is implemented in Python.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="198">
+        <source xml:lang="en-US">You can imagine that each existing framework is just an enormous expansion of this concept-library.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This<ept id="1">]</ept><bpt id="2">(</bpt>https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/<ept id="2">)</ept> is a step-by-step backpropagation example with calculus.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="200">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Second pass:<ept id="1">_</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>ANN Chapter<ept id="1">]</ept><bpt id="2">(</bpt>https://www.deeplearningbook.org/contents/mlp.html<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Tips & Best practices:<ept id="1">_</ept>
+<bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://developers.google.com/machine-learning/crash-course/training-neural-networks/best-practices<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://hackernoon.com/8-deep-learning-best-practices-i-learned-about-in-2017-700f32409512<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://towardsdatascience.com/10-things-to-think-about-before-starting-to-code-your-deep-neural-network-65094a1e7c08<ept id="7">)</ept>, <bpt id="8">[</bpt>4<ept id="8">]</ept><bpt id="9">(</bpt>https://towardsdatascience.com/how-to-increase-the-accuracy-of-a-neural-network-9f5d1c6f407d<ept id="9">)</ept>, <bpt id="10">[</bpt>5<ept id="10">]</ept><bpt id="11">(</bpt>https://www.reddit.com/r/MachineLearning/comments/abj1mc/d_notes_on_why_deep_neural_networks_are_able_to/<ept id="11">)</ept>, <bpt id="12">[</bpt>6<ept id="12">]</ept><bpt id="13">(</bpt>https://www.reddit.com/r/MachineLearning/comments/abj1mc/d_notes_on_why_deep_neural_networks_are_able_to/<ept id="13">)</ept>, <bpt id="14">[</bpt>7<ept id="14">]</ept><bpt id="15">(</bpt>http://karpathy.github.io/neuralnets/<ept id="15">)</ept>, <bpt id="16">[</bpt>8<ept id="16">]</ept><bpt id="17">(</bpt>https://medium.com/cracking-the-data-science-interview/a-gentle-introduction-to-neural-networks-for-machine-learning-d5f3f8987786<ept id="17">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="203">
+        <source xml:lang="en-US">CNN - Convolutional Neural Networks</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>First look (in order):<ept id="1">_</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/<ept id="2">)</ept> is an awesome deep explanation.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="206">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8<ept id="2">)</ept> another super good one.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://developers.google.com/machine-learning/practica/image-classification/<ept id="2">)</ept> is a serious CNN tutorial from Google.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>http://setosa.io/ev/image-kernels/<ept id="2">)</ept> you have an amazing interactive demo.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Second pass:<ept id="1">_</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>CNN Chapter<ept id="1">]</ept><bpt id="2">(</bpt>https://www.deeplearningbook.org/contents/convnets.html<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Tips & Best practices:<ept id="1">_</ept>
+<bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture/<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://arxiv.org/abs/1709.02601<ept id="7">)</ept>, <bpt id="8">[</bpt>4<ept id="8">]</ept><bpt id="9">(</bpt>https://de.mathworks.com/matlabcentral/answers/362024-convolutional-neural-networks-what-is-the-best-practice-training-approach-using-graphics-cards<ept id="9">)</ept>, <bpt id="10">[</bpt>5<ept id="10">]</ept><bpt id="11">(</bpt>http://www.academia.edu/4057996/Best_Practices_for_Convolutional_Neural_Networks_Applied_to_Visual_Document_Analysis<ept id="11">)</ept>, <bpt id="12">[</bpt>6<ept id="12">]</ept><bpt id="13">(</bpt>https://www.microsoft.com/en-us/research/publication/best-practices-for-convolutional-neural-networks-applied-to-visual-document-analysis/<ept id="13">)</ept>, <bpt id="14">[</bpt>7<ept id="14">]</ept><bpt id="15">(</bpt>https://missinglink.ai/guides/neural-network-concepts/neural-networks-image-recognition-methods-best-practices-applications/<ept id="15">)</ept>, <bpt id="16">[</bpt>8<ept id="16">]</ept><bpt id="17">(</bpt>https://machinelearningmastery.com/best-practices-document-classification-deep-learning/<ept id="17">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source xml:lang="en-US">RNN - Recurrent Neural Networks</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>First look (in order):<ept id="1">_</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>http://colah.github.io/posts/2015-08-Understanding-LSTMs/<ept id="2">)</ept>, a gentle but detailed explanation.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.superdatascience.com/blogs/the-ultimate-guide-to-recurrent-neural-networks-rnn<ept id="2">)</ept> is another interesting explanation.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=9zhrxE5PQgY<ept id="2">)</ept> is a video with a more practical approach.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://becominghuman.ai/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow-1907a5bbb1fa<ept id="2">)</ept>, a guide to implement RNN in TensorFlow.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767<ept id="2">)</ept>, a 7-page long blog post regarding the TensorFlow implementation.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Second pass:<ept id="1">_</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>RNN Chapter<ept id="1">]</ept><bpt id="2">(</bpt>https://www.deeplearningbook.org/contents/rnn.html<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Tips & Best practices:<ept id="1">_</ept>
+<bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://danijar.com/tips-for-training-recurrent-neural-networks/<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://svail.github.io/rnn_perf/<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://towardsdatascience.com/rnn-training-tips-and-tricks-2bf687e67527<ept id="7">)</ept>, <bpt id="8">[</bpt>4<ept id="8">]</ept><bpt id="9">(</bpt>http://slazebni.cs.illinois.edu/spring17/lec20_rnn.pdf<ept id="9">)</ept>, <bpt id="10">[</bpt>5<ept id="10">]</ept><bpt id="11">(</bpt>https://www.quora.com/What-are-the-best-practices-for-choosing-hidden-state-size-in-RNNs<ept id="11">)</ept>, <bpt id="12">[</bpt>6<ept id="12">]</ept><bpt id="13">(</bpt>https://www.quora.com/Can-recurrent-neural-networks-with-LSTM-be-used-for-time-series-prediction<ept id="13">)</ept>, <bpt id="14">[</bpt>7<ept id="14">]</ept><bpt id="15">(</bpt>https://www.reddit.com/r/MachineLearning/comments/5ogbd5/d_training_lstms_in_practice_tips_and_tricks/<ept id="15">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source xml:lang="en-US">Training Networks: Best practices</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>First look (in order):<ept id="1">_</ept>
+I <bpt id="2">**</bpt>strongly recommend<ept id="2">**</ept> you to refer to <bpt id="3">[</bpt>this page<ept id="3">]</ept><bpt id="4">(</bpt>http://cs231n.github.io/<ept id="4">)</ept> from Stanford and go through all the Module 1 and 2.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source xml:lang="en-US">I also put here a list of the various topics to explore when talking about <bpt id="1">_</bpt>how to train NN in real life applications<ept id="1">_</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source xml:lang="en-US">Overfitting vs Underfitting: <bpt id="1">[</bpt>1<ept id="1">]</ept><bpt id="2">(</bpt>https://keeeto.github.io/blog/bias_variance/<ept id="2">)</ept>, <bpt id="3">[</bpt>2<ept id="3">]</ept><bpt id="4">(</bpt>https://cran.r-project.org/web/packages/keras/vignettes/tutorial_overfit_underfit.html<ept id="4">)</ept>, <bpt id="5">[</bpt>3<ept id="5">]</ept><bpt id="6">(</bpt>https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/<ept id="6">)</ept>, <bpt id="7">[</bpt>4<ept id="7">]</ept><bpt id="8">(</bpt>https://medium.com/greyatom/what-is-underfitting-and-overfitting-in-machine-learning-and-how-to-deal-with-it-6803a989c76<ept id="8">)</ept>, <bpt id="9">[</bpt>5<ept id="9">]</ept><bpt id="10">(</bpt>https://elitedatascience.com/overfitting-in-machine-learning<ept id="10">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source xml:lang="en-US">Vanishing/Exploding Gradient: <bpt id="1">[</bpt>1<ept id="1">]</ept><bpt id="2">(</bpt>https://medium.com/learn-love-ai/the-curious-case-of-the-vanishing-exploding-gradient-bf58ec6822eb<ept id="2">)</ept>, <bpt id="3">[</bpt>2<ept id="3">]</ept><bpt id="4">(</bpt>https://machinelearningmastery.com/exploding-gradients-in-neural-networks/<ept id="4">)</ept>, <bpt id="5">[</bpt>3<ept id="5">]</ept><bpt id="6">(</bpt>https://hackernoon.com/exploding-and-vanishing-gradient-problem-math-behind-the-truth-6bd008df6e25<ept id="6">)</ept>, <bpt id="7">[</bpt>4<ept id="7">]</ept><bpt id="8">(</bpt>https://www.jefkine.com/general/2018/05/21/2018-05-21-vanishing-and-exploding-gradient-problems/<ept id="8">)</ept>, <bpt id="9">[</bpt>5<ept id="9">]</ept><bpt id="10">(</bpt>https://medium.com/@prateekvishnu/xavier-and-he-normal-he-et-al-initialization-8e3d7a087528<ept id="10">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source xml:lang="en-US">Transfer Learning: <bpt id="1">[</bpt>1<ept id="1">]</ept><bpt id="2">(</bpt>https://medium.com/analytics-vidhya/reusing-a-pre-trained-deep-learning-model-on-a-new-task-transfer-learning-1c0a25a92dfb<ept id="2">)</ept>, <bpt id="3">[</bpt>2<ept id="3">]</ept><bpt id="4">(</bpt>https://www.analyticsvidhya.com/blog/2017/06/transfer-learning-the-art-of-fine-tuning-a-pre-trained-model/<ept id="4">)</ept>, <bpt id="5">[</bpt>3<ept id="5">]</ept><bpt id="6">(</bpt>https://jjallaire.github.io/deep-learning-with-r-notebooks/notebooks/5.3-using-a-pretrained-convnet.nb.html<ept id="6">)</ept>, <bpt id="7">[</bpt>4<ept id="7">]</ept><bpt id="8">(</bpt>https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a<ept id="8">)</ept>, <bpt id="9">[</bpt>5<ept id="9">]</ept><bpt id="10">(</bpt>https://machinelearningmastery.com/transfer-learning-for-deep-learning/<ept id="10">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="228">
+        <source xml:lang="en-US">Faster Optimizers: <bpt id="1">[</bpt>1<ept id="1">]</ept><bpt id="2">(</bpt>http://ruder.io/optimizing-gradient-descent/<ept id="2">)</ept>, <bpt id="3">[</bpt>2<ept id="3">]</ept><bpt id="4">(</bpt>https://www.jeremyjordan.me/nn-learning-rate/<ept id="4">)</ept>, <bpt id="5">[</bpt>3<ept id="5">]</ept><bpt id="6">(</bpt>https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1<ept id="6">)</ept>, <bpt id="7">[</bpt>4<ept id="7">]</ept><bpt id="8">(</bpt>https://towardsdatascience.com/learning-rate-scheduler-d8a55747dd90<ept id="8">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source xml:lang="en-US">Avoiding Overfitting through Regularization: <bpt id="1">[</bpt>1<ept id="1">]</ept><bpt id="2">(</bpt>https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a<ept id="2">)</ept>, <bpt id="3">[</bpt>2<ept id="3">]</ept><bpt id="4">(</bpt>https://codeburst.io/what-is-regularization-in-machine-learning-aed5a1c36590<ept id="4">)</ept>, <bpt id="5">[</bpt>3<ept id="5">]</ept><bpt id="6">(</bpt>https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/<ept id="6">)</ept>, <bpt id="7">[</bpt>4<ept id="7">]</ept><bpt id="8">(</bpt>https://machinelearningmastery.com/weight-regularization-to-reduce-overfitting-of-deep-learning-models/<ept id="8">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Second pass:<ept id="1">_</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Google best practices<ept id="1">]</ept><bpt id="2">(</bpt>https://developers.google.com/machine-learning/guides/rules-of-ml/<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Regularization Chapter<ept id="1">]</ept><bpt id="2">(</bpt>https://www.deeplearningbook.org/contents/regularization.html<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Optimization Chapter<ept id="1">]</ept><bpt id="2">(</bpt>https://www.deeplearningbook.org/contents/optimization.html<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Practical Methodology Chapter<ept id="1">]</ept><bpt id="2">(</bpt>https://www.deeplearningbook.org/contents/guidelines.html<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="235">
+        <source xml:lang="en-US">AutoEncoders</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>First look (in order):<ept id="1">_</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.quora.com/What-is-an-auto-encoder-in-machine-learning<ept id="2">)</ept> you find a first read.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This<ept id="1">]</ept><bpt id="2">(</bpt>https://towardsdatascience.com/deep-inside-autoencoders-7e41f319999f<ept id="2">)</ept> is your second recommended read.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="239">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=vfnxKO2rMq4<ept id="2">)</ept> is a lecture from Andrew NG.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source xml:lang="en-US">I also give you some examples: <bpt id="1">[</bpt>1<ept id="1">]</ept><bpt id="2">(</bpt>https://www.guru99.com/autoencoder-deep-learning.html<ept id="2">)</ept>, <bpt id="3">[</bpt>2<ept id="3">]</ept><bpt id="4">(</bpt>https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/autoencoder.py<ept id="4">)</ept>, <bpt id="5">[</bpt>3<ept id="5">]</ept><bpt id="6">(</bpt>https://towardsdatascience.com/deep-autoencoders-using-tensorflow-c68f075fd1a3<ept id="6">)</ept>, <bpt id="7">[</bpt>4<ept id="7">]</ept><bpt id="8">(</bpt>http://machinelearninguru.com/deep_learning/tensorflow/neural_networks/autoencoder/autoencoder.html<ept id="8">)</ept>, <bpt id="9">[</bpt>5<ept id="9">]</ept><bpt id="10">(</bpt>https://mathspp.blogspot.com/2019/03/generating-natural-looking-digits-with.html<ept id="10">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="241">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Second pass:<ept id="1">_</ept>
+<bpt id="2">[</bpt>AutoEncoders Chapter<ept id="2">]</ept><bpt id="3">(</bpt>https://www.deeplearningbook.org/contents/autoencoders.html<ept id="3">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="242">
+        <source xml:lang="en-US"> <bpt id="1">_</bpt>Tips & Best practices:<ept id="1">_</ept>
+ <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://stats.stackexchange.com/questions/257163/architecture-of-autoencoders<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://stats.stackexchange.com/questions/193780/how-much-noise-for-denoising-autoencoder<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://www.reddit.com/r/MachineLearning/comments/6aw8ik/d_reddit_do_you_use_autoencoders_in_practice/<ept id="7">)</ept>, <bpt id="8">[</bpt>4<ept id="8">]</ept><bpt id="9">(</bpt>https://www.reddit.com/r/MachineLearning/comments/89f17m/d_current_best_practices_for_vaes/<ept id="9">)</ept>, <bpt id="10">[</bpt>5<ept id="10">]</ept><bpt id="11">(</bpt>https://www.reddit.com/r/MachineLearning/comments/5k8h07/p_insights_into_variational_autoencoders_for/<ept id="11">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source xml:lang="en-US">Reinforcement Learning</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="244">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>First look (in order):<ept id="1">_</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="245">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=2pWv7GOvuf0<ept id="2">)</ept> you have an explanation video.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="246">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This<ept id="1">]</ept><bpt id="2">(</bpt>https://skymind.ai/wiki/deep-reinforcement-learning<ept id="2">)</ept> article explains RL really well.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="247">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://towardsdatascience.com/what-to-expect-from-reinforcement-learning-a22e8c16f40c<ept id="2">)</ept> is an interesting read.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="248">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This post<ept id="1">]</ept><bpt id="2">(</bpt>https://mathspp.blogspot.com/2018/09/markov-decision-processes-basics.html<ept id="2">)</ept> couples an intuitive example with some formal definitions.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="249">
+        <source xml:lang="en-US">Some examples: <bpt id="1">[</bpt>1<ept id="1">]</ept><bpt id="2">(</bpt>https://adventuresinmachinelearning.com/reinforcement-learning-tensorflow/<ept id="2">)</ept>, <bpt id="3">[</bpt>2<ept id="3">]</ept><bpt id="4">(</bpt>https://medium.com/tensorflow/deep-reinforcement-learning-playing-cartpole-through-asynchronous-advantage-actor-critic-a3c-7eab2eea5296<ept id="4">)</ept>, <bpt id="5">[</bpt>3<ept id="5">]</ept><bpt id="6">(</bpt>https://www.youtube.com/watch?v=t1A3NTttvBA<ept id="6">)</ept>, <bpt id="7">[</bpt>4<ept id="7">]</ept><bpt id="8">(</bpt>https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow<ept id="8">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="250">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Second pass:<ept id="1">_</ept>
+<bpt id="2">[</bpt>The go-to guide<ept id="2">]</ept><bpt id="3">(</bpt>https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html?utm_campaign=Data%20Machina&amp;utm_medium=email&utm_source=Revue%20newsletter<ept id="3">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="251">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Paper<ept id="1">]</ept><bpt id="2">(</bpt>https://arxiv.org/pdf/1710.02298.pdf<ept id="2">)</ept> with state-of-the-art RL architecture.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="252">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Complete free book on RL<ept id="1">]</ept><bpt id="2">(</bpt>http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="253">
+        <source xml:lang="en-US"> <bpt id="1">_</bpt>Tips & Best practices:<ept id="1">_</ept>
+ <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://medium.com/@BonsaiAI/deep-reinforcement-learning-models-tips-tricks-for-writing-reward-functions-a84fe525e8e0<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12<ept id="5">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="254">
+        <source xml:lang="en-US">Utilities</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="255">
+        <source xml:lang="en-US"><bpt id="1">**</bpt>Hey You<ept id="1">**</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="256">
+        <source xml:lang="en-US">During the last few years I collected tons of articles, web apps, reddit threads, best practices, projects and repositories, and I want to share with you each single bit of information, organizing them by type of resource (blogs or projects ideas, and so on).</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="257">
+        <source xml:lang="en-US">Machine Learning Projects</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="258">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Enormous and awesome collection<ept id="1">]</ept><bpt id="2">(</bpt>https://github.com/FavioVazquez/ds-cheatsheets<ept id="2">)</ept> of Data Science Cheat Sheets</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="259">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Infinite collection<ept id="1">]</ept><bpt id="2">(</bpt>https://docs.google.com/document/d/e/2PACX-1vRRC3ZIcvjFqEYEgnN9pptoWONr2mSGZJ4hSdL8Jpf2IpXdxjTc-d3jrpb98h59xJnZ3h1frUDydoxc/pub<ept id="2">)</ept> of actual Data Science / ML projects</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="260">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Infinite collection<ept id="1">]</ept><bpt id="2">(</bpt>https://github.com/jtoy/awesome-tensorflow<ept id="2">)</ept> of tutorials and ML projects in TensorFlow</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="261">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Other TensorFlow examples<ept id="1">]</ept><bpt id="2">(</bpt>https://github.com/aymericdamien/TensorFlow-Examples<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="262">
+        <source xml:lang="en-US">Tools</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="263">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Google Data Visualization Facets<ept id="1">]</ept><bpt id="2">(</bpt>https://pair-code.github.io/facets/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="264">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Interactive Neural Network<ept id="1">]</ept><bpt id="2">(</bpt>https://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&dataset=circle®Dataset=reg-plane&learningRate=0.03®ularizationRate=0&noise=0&networkShape=4,2&seed=0.95549&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="265">
+        <source xml:lang="en-US">Youtube Channels</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="266">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Enthought<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/user/EnthoughtMedia/videos<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="267">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Siraj Raval<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="268">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>3Blue1Brown<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="269">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Microsoft<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/channel/UCFtEEv80fQVKkD4h1PF-Xqw<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="270">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>TensorFlow Official channel<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="271">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Engineering Man<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="272">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>The Tech Lead<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="273">
+        <source xml:lang="en-US">Blogs</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="274">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>How to build a data science portfolio<ept id="1">]</ept><bpt id="2">(</bpt>https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html?utm_campaign=Data%20Machina&amp;utm_medium=email&utm_source=Revue%20newsletter<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="275">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Distill blog<ept id="1">]</ept><bpt id="2">(</bpt>https://distill.pub/<ept id="2">)</ept>  </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="276">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Keras<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/user/EnthoughtMedia/videos<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="277">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Paolo Galeone blog<ept id="1">]</ept><bpt id="2">(</bpt>https://pgaleone.eu/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="278">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>TensorFlow official blog<ept id="1">]</ept><bpt id="2">(</bpt>https://medium.com/tensorflow<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="279">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>KD Nuggets<ept id="1">]</ept><bpt id="2">(</bpt>https://www.kdnuggets.com/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="280">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Incredible Graphic explanations<ept id="1">]</ept><bpt id="2">(</bpt>http://colah.github.io/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="281">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Towards Data Science<ept id="1">]</ept><bpt id="2">(</bpt>https://towardsdatascience.com<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="282">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Machine Learning Mastery<ept id="1">]</ept><bpt id="2">(</bpt>https://machinelearningmastery.com/blog/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="283">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Mathspp blog<ept id="1">]</ept><bpt id="2">(</bpt>http://mathspp.blogspot.com/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="284">
+        <source xml:lang="en-US">Websites worth taking a look!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="285">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>The best machine learning <bpt id="2">**</bpt>short<ept id="2">**</ept> book I've ever read<ept id="1">]</ept><bpt id="3">(</bpt>https://www.ibm.com/downloads/cas/GB8ZMQZ3<ept id="3">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="286">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>A monster collection of Data related free course<ept id="1">]</ept><bpt id="2">(</bpt>https://github.com/kmario23/deep-learning-drizzle<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="287">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Machine Learning Map<ept id="1">]</ept><bpt id="2">(</bpt>http://www.saedsayad.com/data_mining_map.htm<ept id="2">)</ept> </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="288">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Data modeling for Business Intelligence<ept id="1">]</ept><bpt id="2">(</bpt>https://www.1keydata.com/datawarehousing/data-modeling-levels.html<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="289">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Statistics explained<ept id="1">]</ept><bpt id="2">(</bpt>http://www.statsoft.com/Textbook/Elementary-Statistics-Concepts#Two%20basic%20features%20of%20every%20relation%20between%20variables<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="290">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Visualizing data - Tutorials<ept id="1">]</ept><bpt id="2">(</bpt>https://datascienceplus.com/category/visualizing-data/?tdo_tag=Python<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="291">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Fast.ai<ept id="1">]</ept><bpt id="2">(</bpt>https://www.fast.ai/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="292">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Open.ai<ept id="1">]</ept><bpt id="2">(</bpt>https://openai.com/blog/better-language-models/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="293">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Explained.ai<ept id="1">]</ept><bpt id="2">(</bpt>https://explained.ai/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="294">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Machine Learning Glossary<ept id="1">]</ept><bpt id="2">(</bpt>https://developers.google.com/machine-learning/glossary/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="295">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Python ML Tutorials<ept id="1">]</ept><bpt id="2">(</bpt>https://www.python-course.eu/machine_learning.php<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="296">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>For Italian Learners!<ept id="1">]</ept><bpt id="2">(</bpt>https://www.deeplearningitalia.com/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="297">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Immersive math<ept id="1">]</ept><bpt id="2">(</bpt>http://immersivemath.com/ila/<ept id="2">)</ept>  </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="298">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>DeepLizard<ept id="1">]</ept><bpt id="2">(</bpt>http://deeplizard.com/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="299">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Common Statistical Fallacies<ept id="1">]</ept><bpt id="2">(</bpt>https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="300">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Scikit-Learn practical recipes<ept id="1">]</ept><bpt id="2">(</bpt>http://gael-varoquaux.info/scikit-learn-tutorial/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="301">
+        <source xml:lang="en-US">Subreddits you want to follow!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="302">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>10 awesome subreddits related to data science<ept id="1">]</ept><bpt id="2">(</bpt>https://www.analyticsindiamag.com/10-data-science-subreddits-every-tech-enthusiast-should-follow/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="303">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>An incredible tool to discover trends and subs<ept id="1">]</ept><bpt id="2">(</bpt>https://anvaka.github.io/sayit/?query=MachineLearning<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="304">
+        <source xml:lang="en-US">Next Steps Roadmap</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="305">
+        <source xml:lang="en-US">Thanks to the great success of this guide,  i've decided to expand it a lot and make more similar for different topics.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="306">
+        <source xml:lang="en-US">Some of the extensions i'm adding here during the next weeks are:</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="307">
+        <source xml:lang="en-US">Unsupervised Learning : <bpt id="1">**</bpt>done<ept id="1">**</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="308">
+        <source xml:lang="en-US">Machine Learning mindset framework (how to think like a data scientist)</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="309">
+        <source xml:lang="en-US">Data processing and preparation with Pandas</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="310">
+        <source xml:lang="en-US">Feature Selection</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="311">
+        <source xml:lang="en-US">Features Engineering</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="312">
+        <source xml:lang="en-US">Extending the parameters optimization section</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="313">
+        <source xml:lang="en-US">Keras Library</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="314">
+        <source xml:lang="en-US">TensorFlow 2.0 </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="315">
+        <source xml:lang="en-US">How to deploy my model on AWS</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="316">
+        <source xml:lang="en-US">How to deploy my model on Azure</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="317">
+        <source xml:lang="en-US">Later on, i'll do an entire guide on Cloud Computing with AWS and Azure!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="318">
+        <source xml:lang="en-US">...</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="319">
+        <source xml:lang="en-US">Coming Very Soon!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="320">
+        <source xml:lang="en-US">Stay tuned :)</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+    </body>
+ </file>
+</xliff>

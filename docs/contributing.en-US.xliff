@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="docs/contributing.md"
+    source-language="en-US" target-language="en-US" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="docs/contributing.en-US.skl"/>
+      </skl>
+    </header>
+    <body>
+      <trans-unit id="1">
+        <source xml:lang="en-US">Hi, if you're here it means that you want to contribute to this awesome project, and help people anywhere in the world 
+getting started with the subject or tool you love!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:lang="en-US">That is great!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:lang="en-US">Easiest way to contribute</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:lang="en-US">The easiest way to contribute would be by sharing this repository with everyone you know.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:lang="en-US">Send it to everyone who might enjoy leaning something new!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:lang="en-US">Contributing with new guides</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:lang="en-US">If you want to write a new guide, that would be great!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:lang="en-US">You can contact us if you want to be sure that no one else is already writing about what you had in mind, or to find out if someone else would be interested in helping you write about a particular topic!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:lang="en-US">If you want to write a guide, please take some time to read a couple of them to get a feel for the style that the guides should follow.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:lang="en-US">You can have a look at the WolframAlpha or GeoGebra guides.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:lang="en-US">Before writing, you also need check the <bpt id="1">[</bpt><bpt id="2">**</bpt>template.md<ept id="2">**</ept><ept id="1">]</ept><bpt id="3">(</bpt>template.md<ept id="3">)</ept> file that accompanies this README.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:lang="en-US">Do your best to write clearly and without errors!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:lang="en-US">Provide relevant links whenever you can and only free resources.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source xml:lang="en-US">You are welcome to leave your contact details in the end of the guide, but you are not forced to do so!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source xml:lang="en-US">Creating a Pull Request</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source xml:lang="en-US">If you are going to create a Pull Request, regardless of the reason, please take the time to give the PR a concise, relevant title (less than 50 characters) and write a descriptive, informative summary in the larger text field.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source xml:lang="en-US">This will let us review your PR faster, instead of having to first interpret what you did, and then decide if the changes are any good (which they probably are!).</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source xml:lang="en-US">We are very interested in having people help us!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source xml:lang="en-US">That is the point of a community!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source xml:lang="en-US">But we would rather not spend hours trying to decipher the changes you made.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+    </body>
+ </file>
+</xliff>

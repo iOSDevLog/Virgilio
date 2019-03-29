@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="Specializations/SoftSkills/ImpactfulPresentations.md"
+    source-language="en-US" target-language="en-US" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="Specializations/SoftSkills/ImpactfulPresentations.en-US.skl"/>
+      </skl>
+    </header>
+    <body>
+      <trans-unit id="1">
+        <source xml:lang="en-US">Impactful Presentations</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:lang="en-US">Why do you need to impress your audience?</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:lang="en-US">In my day, in the ancient Rome, data scientists were called <bpt id="1">[</bpt>haruspexes<ept id="1">]</ept><bpt id="2">(</bpt>https://en.wikipedia.org/wiki/Haruspex<ept id="2">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:lang="en-US">
+The state-of-art technique they used to represent data and make decisions based on it was to spread the entrails of a bird on a sacred table and try to interpret them.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:lang="en-US">
+"Such a small stomach?</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:lang="en-US">Aha!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:lang="en-US">I'm going to tell the general now that it's time to attack decisively!"</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:lang="en-US">But they always had that problem that they couldn't exceed an average success of 50 percent!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:lang="en-US">Today, fortunately, we have more effective tools and the core field "Data Science" is looking at the factual evidence of the past to try to make better decisions in the present that affect the future.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:lang="en-US">In the age of data-driven decisions, it is increasingly important to have a clear representation of them and how they advise us to act in practice.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:lang="en-US">Let us give a few examples:</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:lang="en-US">E-Commerce may want to understand which products are best sold, to what kind of target, in what volumes.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:lang="en-US">
+It may want to understand which products are often bought together so you can 
+get the famous "hey, the other users who bought X also bought Y!".\
+A newspaper might be interested in how age groups are divided and in what numbers, among its readers, 
+and might also want to see at what time of day its articles are consulted and from what type of device (mobile, desktop, real paper?).\
+A bank wants to understand what are the maximum margins that can be put on policies and loans, to find the best compromise between competitiveness and gain.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source xml:lang="en-US">These are just a few examples, now let's try to make a game:
+try to think of any kind of human activity, involving more than 5 humans, that would benefit from a clear representation
+of the data of their activity, to make actual decisions.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source xml:lang="en-US">You will find that this reasoning applies to anything, <bpt id="1">_</bpt>if you have enough data!<ept id="1">_</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source xml:lang="en-US">Extracting knowledge from the data, however, is useless if then the audience 
+to which we must communicate(managers, customers, colleagues, departments) 
+does not perceive the urgency of looking at the data to make decisions!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source xml:lang="en-US">With this guide, I want to introduce you to the key principles for effectively presenting your data and the conclusions
+that can be drawn from them.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source xml:lang="en-US">Remember!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source xml:lang="en-US">Every decision you propose will always have a certain risk of not being the right one 
+(the real world is based on unpredictable and chaotic mechanics and interactions), but the important point in all this is to 
+get as far away as possible from the success achieved by the haruspex and their weak and random 50 percent.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source xml:lang="en-US">During this guide, I consider that you're presenting with the tech support of simple slides.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source xml:lang="en-US">Prerequisites</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source xml:lang="en-US">No one!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source xml:lang="en-US">But read <bpt id="1">[</bpt>this book<ept id="1">]</ept><bpt id="2">(</bpt>https://www.amazon.it/Pyramid-Principle-BarbaraMinto/dp/0273710516<ept id="2">)</ept> if you have time!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source xml:lang="en-US">Index</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>How to build the content<ept id="1">]</ept><bpt id="2">(</bpt>#How-to-build-the-content<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Know your audience<ept id="1">]</ept><bpt id="2">(</bpt>#Know-your-audience<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Develop high quality content<ept id="1">]</ept><bpt id="2">(</bpt>#Develop-high-quality-content<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Build a structure<ept id="1">]</ept><bpt id="2">(</bpt>#Build-a-structure<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Less is more<ept id="1">]</ept><bpt id="2">(</bpt>#Less-is-more<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Leverage data power wisely<ept id="1">]</ept><bpt id="2">(</bpt>#Leverage-data-power-wisely<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>How to present the content<ept id="1">]</ept><bpt id="2">(</bpt>#How-to-present-the-content<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Connect with your audience<ept id="1">]</ept><bpt id="2">(</bpt>#Connect-with-your-audience<ept id="2">)</ept> </source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Don’t read<ept id="1">]</ept><bpt id="2">(</bpt>#Don’t-read<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Be intriguing<ept id="1">]</ept><bpt id="2">(</bpt>#Be-intriguing<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Use humor<ept id="1">]</ept><bpt id="2">(</bpt>#Use-humor<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>The Pragmatic Storyteller<ept id="1">]</ept><bpt id="2">(</bpt>#The-Pragmatic-Storyteller<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source xml:lang="en-US">Let's dive right in!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source xml:lang="en-US">How to build the content</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source xml:lang="en-US">Know your audience</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source xml:lang="en-US">Are you talking to managers or developers?</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source xml:lang="en-US">Are you educating your sellers, or are you the same seller who has to convince a customer?</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source xml:lang="en-US">In any case, the first rule is <bpt id="1">[</bpt><bpt id="2">**</bpt>Know your audience<ept id="2">**</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.asme.org/career-education/articles/public-speaking/public-speaking-know-your-audience<ept id="3">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source xml:lang="en-US">If you know your audience, their tastes, their interests, you can build your presentation in the best and most targeted way.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.ethos3.com/2009/10/5-ways-to-get-to-know-your-audience/<ept id="2">)</ept> you find 5 more ways to do it.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source xml:lang="en-US"> </source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source xml:lang="en-US">Develop high-quality content</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source xml:lang="en-US">The content is the nucleus of your presentation.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source xml:lang="en-US">While all the other ideas below will help you make your content more effective, a great presentation starts and ends with great content.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source xml:lang="en-US">So don't shorten your audience by shortening the effort you spend developing your content.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source xml:lang="en-US">You will need to invest many hours of research, writing and asking feedbacks if you want to create a presentation that your audience will love.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source xml:lang="en-US">You want to refine your material as more as you can, but don't over prepare everything, otherwise, you'll seem too much rigid and artificial: we'll see that one of the key points in this guide will be "be authentic".</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source xml:lang="en-US">Build a structure</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source xml:lang="en-US">I strongly advise you to build an organic structure that you then follow in your presentation.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://virtualspeech.com/blog/how-to-structure-your-presentation<ept id="2">)</ept> you find a good overview of "how to build a structure".</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://visme.co/blog/presentation-structure/<ept id="2">)</ept> you find 7 common structures.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source xml:lang="en-US">A simple and well-known structure is the 3-act one.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source xml:lang="en-US">Although not all presentations fit easily into the 3-act structure, it is generally a good general method to follow (with the necessary adjustments according to the situation).</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source xml:lang="en-US"><bpt id="1">**</bpt>1<ept id="1">**</ept> - The first Step is the introduction, the setting of the presentation.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source xml:lang="en-US">This is the moment when you capture the audience's attention, giving them the expectation of what will come out of it and a reason to keep listening.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source xml:lang="en-US"><bpt id="1">**</bpt>2<ept id="1">**</ept> - The intermediate Step is the moment when you support their interest.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source xml:lang="en-US">You are usually detailing a problem and offering a solution while you educate and inform along the way.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source xml:lang="en-US">It is here where you truly build your case and sell the benefits.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source xml:lang="en-US">This is where you want to provide compelling examples, data, statistics, etc. to support your points.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source xml:lang="en-US"><bpt id="1">**</bpt>3<ept id="1">**</ept> - The final Step is where you solve the problem, summarizes it and reminds the audience of the highlights of your presentation.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source xml:lang="en-US">Then leave the audience with a call to action and a list of practical points.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source xml:lang="en-US">What is supposed to be taken away from your presentation by the audience?</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source xml:lang="en-US">This should be clearly defined in the closing Step.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source xml:lang="en-US">Also, a final story or illustration and questions from the audience are a great way to end the presentation and help people remember the sense of your discourse.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source xml:lang="en-US">Less is more</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source xml:lang="en-US">Packing slides with information do not necessarily make them more effective.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source xml:lang="en-US">In fact, you often get the opposite effect by producing confusing slides that take away, rather than adding value to a  presentation.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source xml:lang="en-US">Well-designed slides help the speaker to emphasize his or her point of view and the audience to understand the key steps of a presentation.\
+Follow the principle of <bpt id="1">[</bpt>"Less is More"<ept id="1">]</ept><bpt id="2">(</bpt>https://www.presentation-guru.com/when-it-comes-to-presentations-less-is-more/<ept id="2">)</ept>.\
+<bpt id="3">[</bpt>The Hemingway Editor<ept id="3">]</ept><bpt id="4">(</bpt>http://www.hemingwayapp.com/<ept id="4">)</ept> will help a lot you writing in a good style, preferring conciseness and fluency.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source xml:lang="en-US">Leverage data power wisely</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source xml:lang="en-US">According to SpiderMan's uncle:</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source xml:lang="en-US">From great power comes great responsibility.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source xml:lang="en-US">The data can be of help or your enemies during a presentation, depending on how you use them and especially you show them graphically.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source xml:lang="en-US">Don't put too much data in your presentation (remember, Less is More)!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source xml:lang="en-US">Take this <bpt id="1">[</bpt>awesome read<ept id="1">]</ept><bpt id="2">(</bpt>https://moz.com/blog/data-visualization-principles-lessons-from-tufte<ept id="2">)</ept>, then find <bpt id="3">[</bpt>here<ept id="3">]</ept><bpt id="4">(</bpt>http://mkweb.bcgsc.ca/talks/datavisualization/datavisualization.pdf<ept id="4">)</ept> great examples of what I'm saying.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source xml:lang="en-US">How to present the content</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source xml:lang="en-US">Connect with your audience</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source xml:lang="en-US">First, you need to <bpt id="1">[</bpt>create a link<ept id="1">]</ept><bpt id="2">(</bpt>https://www.forbes.com/sites/lisaroepe/2017/03/14/6-ways-to-connect-with-your-audience-during-a-presentation/#73e158396516<ept id="2">)</ept> between you and your audience.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source xml:lang="en-US">In this way, they'll follow you because they trust that you're useful for them and you genuinely want them to learn something.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source xml:lang="en-US">I like to call this process <bpt id="1">[</bpt>"building trust"<ept id="1">]</ept><bpt id="2">(</bpt>https://www.trainingjournal.com/articles/opinion/how-build-trust-audience-when-making-presentation<ept id="2">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source xml:lang="en-US">Don’t read</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source xml:lang="en-US">Really, don't do it.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source xml:lang="en-US">Reading slides will bore your audience and you'll seem less confident.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here's<ept id="1">]</ept><bpt id="2">(</bpt>https://www.techwell.com/2013/10/give-better-presentation-don-t-read-your-slides<ept id="2">)</ept> why.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here's<ept id="1">]</ept><bpt id="2">(</bpt>https://academia.stackexchange.com/questions/76370/why-do-most-people-think-its-a-bad-idea-to-read-from-slides<ept id="2">)</ept> a mine full of other reasons.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source xml:lang="en-US">Be intriguing</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source xml:lang="en-US">The best way to attract people is to grab their attention.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source xml:lang="en-US">Doing this it's not so easy, but with some psychological tricks you can bewitch and convince them.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.inc.com/sims-wyeth/how-to-capture-and-hold-audience-attention.html<ept id="2">)</ept> you have a really good explanation of what I'm saying.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source xml:lang="en-US">Use humor</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source xml:lang="en-US">If you're here, it's mostly because I've been intrigued and caught your attention.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source xml:lang="en-US">A big part of this game has been played by humor.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.writersdigest.com/online-editor/how-to-mix-humor-into-your-writing<ept id="2">)</ept> you can learn how to embed humor in your writings, and <bpt id="3">[</bpt>here<ept id="3">]</ept><bpt id="4">(</bpt>https://www.fastcompany.com/3068891/how-to-incorporate-humor-into-presentations-in-the-most-un-cringeworthy-way<ept id="4">)</ept> you can learn how to do it in your speeches.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source xml:lang="en-US">The Pragmatic Storyteller</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source xml:lang="en-US">A sunny morning, in the 44 B.C.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source xml:lang="en-US">"Good morning, noble court legislators.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source xml:lang="en-US">Today I want to tell you a personal story.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source xml:lang="en-US">At the age of 7, my father took me to the Colosseum in Rome for the first time to see the gladiators fight.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source xml:lang="en-US"> Like all children, I was very excited about that day, I saw all the older boys playing the game of gladiators with fake swords and talk about the furious fights between men, lions, and elephants!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source xml:lang="en-US">Tens of thousands of people were there for the same reason, seeing two prisoners fighting in blood until one of them wins.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source xml:lang="en-US">I was feeling different sensations in the air: the excitement in the audience, who wants to vent their repressed violence, the fear in the eyes of the fighters, who know that everyone will fight with the utmost commitment because it is at stake his life.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source xml:lang="en-US">The clash begins, the crowd screams and enjoys seeing this show that I can only consider terrifying.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source xml:lang="en-US">In the end, the strongest physically wins and kills mercilessly the other.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source xml:lang="en-US">Dear noble legislators, today I'm 50 years old and I'm here to ask you: is this the symbol we want for the Roman civilization?</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source xml:lang="en-US">How do we differ from the barbarians beyond the Alps?</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source xml:lang="en-US">How can we consider ourselves a refined people rich in culture, if we fall into easy vices like that of gratuitous violence?</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source xml:lang="en-US">For these reasons, appealing to your intelligence, <bpt id="1">_</bpt>I suggest you abolish the violent games in the Colosseum, for the sake of the image of our civilization.<ept id="1">_</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source xml:lang="en-US">This was <bpt id="1">**</bpt>the personal Virgilio's story<ept id="1">**</ept> that was talking, not me.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source xml:lang="en-US">This was Storytelling.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source xml:lang="en-US">You can notice several things:</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source xml:lang="en-US">Coherent flow (I didn't improvise.)</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source xml:lang="en-US">Setting</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source xml:lang="en-US">Story </source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source xml:lang="en-US">Emotions and sensations (you need to reproduce them in your audience)</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source xml:lang="en-US">Motivations for the conclusion</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source xml:lang="en-US">Conclusion</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source xml:lang="en-US">Use of the first person</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source xml:lang="en-US">Rhetorical questions</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source xml:lang="en-US">Naturalness</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source xml:lang="en-US">Confidence with the public that grows with the story, while we show spontaneity and humility</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source xml:lang="en-US">In the end, a wrap-up of reasons and the practical suggestion</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source xml:lang="en-US">Apply <bpt id="1">[</bpt>StoryTelling<ept id="1">]</ept><bpt id="2">(</bpt>https://blog.hubspot.com/marketing/storytelling<ept id="2">)</ept> in a coherent fashion.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source xml:lang="en-US">The more authentic, visceral and suggestive you are, the more your audience will trust you and remember
+the concepts.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=Nj-hdQMa3uA<ept id="2">)</ept> a brief Ted Talk about this.\
+<bpt id="3">[</bpt>Here<ept id="3">]</ept><bpt id="4">(</bpt>https://www.articulatemarketing.com/blog/22-rules-of-storytelling-from-pixar<ept id="4">)</ept> you find a great list of storytelling best practices from Pixar.\
+<bpt id="5">[</bpt>Here<ept id="5">]</ept><bpt id="6">(</bpt>https://visme.co/blog/visual-storytelling-rules/<ept id="6">)</ept> you find the rules of thumb of visual storytelling.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source xml:lang="en-US">Written by <bpt id="1">_</bpt>clone95<ept id="1">_</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+    </body>
+ </file>
+</xliff>

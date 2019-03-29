@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="Specializations/HardSkills/DataPreprocessing.md"
+    source-language="en-US" target-language="en-US" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="Specializations/HardSkills/DataPreprocessing.en-US.skl"/>
+      </skl>
+    </header>
+    <body>
+      <trans-unit id="1">
+        <source xml:lang="en-US">Data Preprocessing</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:lang="en-US">Data preprocessing (also known as Data Preparation, but "Preprocessing" sounds more like magic) is the <bpt id="1">[</bpt>iterative process<ept id="1">]</ept><bpt id="2">(</bpt>http://www.jsoftware.us/vol12/306-JSW15277.pdf<ept id="2">)</ept> of gathering, combining, structuring and organizing data so it can be analyzed as part of data visualization, analytics, and machine learning applications.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Real-world data<ept id="1">]</ept><bpt id="2">(</bpt>https://www.quanticate.com/blog/real-world-data-analysis-in-clinical-trials<ept id="2">)</ept> is often incomplete, inconsistent, and/or lacking in certain behaviors or trends, and is likely to contain many errors.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:lang="en-US">Data preprocessing is a proven method of resolving such issues.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:lang="en-US">It's the <bpt id="1">[</bpt>core ability<ept id="1">]</ept><bpt id="2">(</bpt>https://blogs.sas.com/content/hiddeninsights/2017/11/30/analytical-data-preparation-important/<ept id="2">)</ept> of any data scientist or data engineer, and you must <bpt id="3">_</bpt>be able to manipulate, clean, and structure<ept id="3">_</ept> your data during the everyday work (besides expecting that this will take the most of your <bpt id="4">[</bpt>daily-time<ept id="4">]</ept><bpt id="5">(</bpt>https://www.infoworld.com/article/3228245/the-80-20-data-science-dilemma.html<ept id="5">)</ept>!).</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:lang="en-US">There are a lot of different data types out there, and they deserve <bpt id="1">[</bpt>different treatments<ept id="1">]</ept><bpt id="2">(</bpt>http://blog.appliedinformaticsinc.com/data-mining-challenges-in-data-cleaning/<ept id="2">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:lang="en-US">As usual the structure I've planned to get you started consists of having a <bpt id="1">[</bpt>general overview<ept id="1">]</ept><bpt id="2">(</bpt>https://searchbusinessanalytics.techtarget.com/definition/data-preparation<ept id="2">)</ept>, and then dive deep into each data processing situation you can encounter.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://towardsdatascience.com/data-pre-processing-techniques-you-should-know-8954662716d6<ept id="2">)</ept> you have a gentle end-to-end panoramic view of the entire process.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:lang="en-US">The concepts through which we're going are the following:</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:lang="en-US">Don't Joke With Data</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:lang="en-US">Work Hard To Produce Good Data</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:lang="en-US">Business Questions</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:lang="en-US">Data Profiling</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source xml:lang="en-US">Who To Leave Behind</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source xml:lang="en-US">Start Small</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source xml:lang="en-US">The Toolkit</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source xml:lang="en-US">Data Cleaning</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source xml:lang="en-US">Get Rid of Extra Spaces</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source xml:lang="en-US">Select and Treat All Blank Cells</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source xml:lang="en-US">Convert Values Type</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source xml:lang="en-US">Remove Duplicates</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source xml:lang="en-US">Change Text to Lower/Upper Case</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source xml:lang="en-US">Normalize Data</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source xml:lang="en-US">Spell Check</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source xml:lang="en-US">Standardize Data</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source xml:lang="en-US">Delete all Formatting</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source xml:lang="en-US">Dealing with Special Characters</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source xml:lang="en-US">Normalizing Dates</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source xml:lang="en-US">Finding and Replacing Patterns</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source xml:lang="en-US">Verification To Enrich Data</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source xml:lang="en-US">Data Cleaning Tools</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source xml:lang="en-US">Data Exploration</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source xml:lang="en-US">Merge Data Sets</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source xml:lang="en-US">Data Discretization</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source xml:lang="en-US">Data Scaling</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source xml:lang="en-US">Data Integration</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source xml:lang="en-US">Iteratively Cleanse and Filter</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source xml:lang="en-US">Sanity Check</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source xml:lang="en-US"><bpt id="1">**</bpt>Let's Start!<ept id="1">**</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source xml:lang="en-US">- Don't Joke With Data</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source xml:lang="en-US">First, <bpt id="1">[</bpt><bpt id="2">**</bpt>data is King<ept id="2">**</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.edq.com/glossary/data-quality-importance/<ept id="3">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source xml:lang="en-US">In the <bpt id="1">[</bpt>data-driven epoch<ept id="1">]</ept><bpt id="2">(</bpt>https://www.venturi-group.com/qa-with-helen-mannion/<ept id="2">)</ept>, having <bpt id="3">[</bpt>data quality issues<ept id="3">]</ept><bpt id="4">(</bpt>https://www.ringlead.com/blog/7-common-data-quality-issues/<ept id="4">)</ept> means to lose tremendous amounts of value for a company, in the present and in the future.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source xml:lang="en-US">So, respect your King and care a lot about him.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source xml:lang="en-US">The most immediate way to do this is to plan and <bpt id="1">[</bpt>work hard<ept id="1">]</ept><bpt id="2">(</bpt>https://nektardata.com/high-quality-data/<ept id="2">)</ept> to <bpt id="3">_</bpt>produce<ept id="3">_</ept> good quality data.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source xml:lang="en-US">Your goal is to plan a collecting data infrastructure that fixes problems beforehand.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source xml:lang="en-US">This means to care to a lot about planning well your database schemas (do I need <bpt id="1">[</bpt>third-normal form<ept id="1">]</ept><bpt id="2">(</bpt>https://social.technet.microsoft.com/Forums/Lync/en-US/7bf4ca30-a1bc-415d-97e6-ce0ac3137b53/normalized-3nf-vs-denormalizedstar-schema-data-warehouse-?forum=sqldatawarehousing<ept id="2">)</ept> or not?), how do you collect data from sensors (physical or conceptual) and so on.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source xml:lang="en-US">These are problems if you're building a system up from the ground, but most of the times in you're gonna facing real-world problems that someone wants to solve with <bpt id="1">[</bpt><bpt id="2">_</bpt>already available<ept id="2">_</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wired.com/insights/2013/05/more-data-more-problems-is-big-data-always-right/<ept id="3">)</ept> data.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source xml:lang="en-US"> </source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source xml:lang="en-US">- Business Questions</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source xml:lang="en-US">Asking the <bpt id="1">[</bpt>right business questions<ept id="1">]</ept><bpt id="2">(</bpt>https://www.datapine.com/blog/data-analysis-questions/<ept id="2">)</ept> is hard, but it has the <bpt id="3">[</bpt>biggest impact<ept id="3">]</ept><bpt id="4">(</bpt>https://towardsdatascience.com/start-your-data-exploration-with-questions-2f1d42cff29e<ept id="4">)</ept> on your performance of solving a particular problem.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source xml:lang="en-US">Remember, you want to <bpt id="1">[</bpt>solve a problem<ept id="1">]</ept><bpt id="2">(</bpt>http://www.informit.com/articles/article.aspx?p=2271188&amp;seqNum=2<ept id="2">)</ept>, not to create new ones!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source xml:lang="en-US">- Data Profiling</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source xml:lang="en-US">According to the (cold as ice) <bpt id="1">[</bpt>Wikipedia definition<ept id="1">]</ept><bpt id="2">(</bpt>https://en.wikipedia.org/wiki/Data_profiling<ept id="2">)</ept>: "Data profiling is the process of examining the data available from an existing information source (e.g. a database or a file) and collecting statistics and informative data summaries."\
+So Wikipedia is subtly suggesting us to take a coffee with the data.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source xml:lang="en-US">During this informal meeting, ask the data questions like:</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source xml:lang="en-US">which business problem are you meant to solve?</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source xml:lang="en-US">(what is important, and what is not) </source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source xml:lang="en-US">how have you been collected (with noise, missing values...)?</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source xml:lang="en-US">how many friends of yours are there and where can I find them?</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source xml:lang="en-US">(data dimensions and retrieving from storages)</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source xml:lang="en-US">Eventually, you may find the data too much quiet, maybe they're just shy!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source xml:lang="en-US">\
+Anyway, you're going to <bpt id="1">[</bpt>ask these questions to the business user<ept id="1">]</ept><bpt id="2">(</bpt>https://business-analysis-excellence.com/business-requirements-meeting/<ept id="2">)</ept>!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Best practices and exercises:<ept id="1">_</ept> <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://www.iqint.org/idq2013/presentations/downloads/di_loreto_data_profiling_tutorial_monday_am.pdf<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://community.alteryx.com/t5/Alteryx-Designer-Discussions/Data-profiling-tutorials-use-cases-and-exercise/td-p/145347<ept id="5">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source xml:lang="en-US">- Who To Leave Behind</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source xml:lang="en-US">During the data profiling process, it's common to realize that often some of your data are <bpt id="1">[</bpt>useless<ept id="1">]</ept><bpt id="2">(</bpt>https://ambisense.net/why-useless-data-is-worse-than-no-data/<ept id="2">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source xml:lang="en-US">Your data may have too much noise or they are partial, and most likely you don't all of them to answer your business problems.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>To drop or not to drop, the Dilemma<ept id="1">]</ept><bpt id="2">(</bpt>https://www.theanalysisfactor.com/outliers-to-drop-or-not-to-drop/<ept id="2">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source xml:lang="en-US">Each time you're facing a data related problem, try to understand what data you need and what you' don't - that is, for each piece of information, ask yourself (and ask the <bpt id="1">_</bpt>business user<ept id="1">_</ept>): </source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source xml:lang="en-US">How this data is going to help me?</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source xml:lang="en-US">Is possible to use them, reducing noise o missing values?</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source xml:lang="en-US">Considering the benefits/costs of the preparation process versus the business value created, Is this data worth it?</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source xml:lang="en-US">- Start Small</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source xml:lang="en-US">It's stupid to handle GBs of data each time you want to try a data preparation step.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source xml:lang="en-US">Just use <bpt id="1">[</bpt>small subsets<ept id="1">]</ept><bpt id="2">(</bpt>https://sdtimes.com/bi/data-gets-big-best-practices-data-preparation-scale/<ept id="2">)</ept> of the data (but take care that they are representative and you catch all the problems).</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source xml:lang="en-US">Remember, if you want to experiment with string cleaning, you don't need to launch your script on 10M rows.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source xml:lang="en-US">- The Toolkit</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source xml:lang="en-US">The tools we're gonna use are Python3 and his <bpt id="1">[</bpt>Pandas library<ept id="1">]</ept><bpt id="2">(</bpt>https://pandas.pydata.org/<ept id="2">)</ept>, the de-facto standard to manipulate datasets.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source xml:lang="en-US">The heavy lifting here is done by the <bpt id="1">[</bpt>DataFrame class<ept id="1">]</ept><bpt id="2">(</bpt>https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html<ept id="2">)</ept>, which comes with a bunch of useful functions for your daily data tasks.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source xml:lang="en-US">Hopefully, you already know Python, if not start from there (do the steps I suggest you in the ML guide requirements), and then take this <bpt id="1">[</bpt>Beginner Pandas tutorial<ept id="1">]</ept><bpt id="2">(</bpt>https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html<ept id="2">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source xml:lang="en-US">Don't worry if now some ideas are not totally clear, but try to get the big picture of the common <bpt id="1">[</bpt>Pandas operations<ept id="1">]</ept><bpt id="2">(</bpt>https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/<ept id="2">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Best practices and exercises:<ept id="1">_</ept> <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://github.com/guipsamora/pandas_exercises<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://www.w3resource.com/python-exercises/pandas/index.php<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://www.machinelearningplus.com/python/101-pandas-exercises-python/<ept id="7">)</ept>, <bpt id="8">[</bpt>4<ept id="8">]</ept><bpt id="9">(</bpt>https://www.kaggle.com/pistak/pandas-tutorial-with-interactive-exercises<ept id="9">)</ept>, <bpt id="10">[</bpt>5<ept id="10">]</ept><bpt id="11">(</bpt>http://disi.unitn.it/~teso/courses/sciprog/python_pandas_exercises.html<ept id="11">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source xml:lang="en-US">- Data Cleaning</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Data cleaning<ept id="1">]</ept><bpt id="2">(</bpt>https://en.wikipedia.org/wiki/Data_cleansing<ept id="2">)</ept> is the general process of taking data, after you have a clear big picture of them, and you need to realize the actual process of replacing characters, dropping incomplete rows, fill missing values and so forth.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source xml:lang="en-US">In the next sections, we'll explore all the common data cleaning situations.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source xml:lang="en-US">- Get Rid of Extra Spaces</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source xml:lang="en-US">One of the first things you want to do is <bpt id="1">[</bpt>remove extra spaces<ept id="1">]</ept><bpt id="2">(</bpt>https://stackoverflow.com/questions/43332057/pandas-strip-white-space<ept id="2">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source xml:lang="en-US">Take care!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source xml:lang="en-US">Some space can carry information, but it heavily depends on the situation.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source xml:lang="en-US">For example, in "Complete Name": "Giacomo Ciarlini" in nice to have space so we can later split this into "Name": "Giacomo" and "Surname": "Ciarlini".</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source xml:lang="en-US">I want you to notice that in general, apart from recommending and suggestion customization systems, unique identifiers like names or IDs are something you can generally drop.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source xml:lang="en-US">Often, they do not carry information.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source xml:lang="en-US">
+<bpt id="1">_</bpt>Bonus tip<ept id="1">_</ept>: learn how to use <bpt id="2">[</bpt>Regex<ept id="2">]</ept><bpt id="3">(</bpt>https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/<ept id="3">)</ept> for pattern matching, this is one of the powerful tools each data guy need to master.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Best practices and exercises:<ept id="1">_</ept> <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://www.quora.com/How-do-you-remove-all-whitespace-from-a-Python-string<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://towardsdatascience.com/5-methods-to-remove-the-from-your-data-in-python-and-the-fastest-one-281489382455<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://www.tutorialspoint.com/How-to-remove-all-leading-whitespace-in-string-in-Python<ept id="7">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>RegeX exercises<ept id="1">_</ept>: <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://www.w3resource.com/python-exercises/re/<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://pycon2016.regex.training/exercises<ept id="5">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Bonus Resource<ept id="1">_</ept>: A super useful <bpt id="2">[</bpt>tool<ept id="2">]</ept><bpt id="3">(</bpt>http://regviz.org/<ept id="3">)</ept> for visualizing RegeX expressions and their effect on the text.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source xml:lang="en-US">- Select and Treat All Blank Cells</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source xml:lang="en-US">Often real-world data is incomplete and is necessary to handle this situation.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>These<ept id="1">]</ept><bpt id="2">(</bpt>https://code.likeagirl.io/how-to-use-python-to-remove-or-modify-empty-values-in-a-csv-dataset-34426c816347<ept id="2">)</ept> are two ways of dealing with it.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://hackersandslackers.com/pandas-dataframe-drop/<ept id="2">)</ept> you have a more in-depth tutorial.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Best practices and exercises:<ept id="1">_</ept> <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://www.kaggle.com/nirmal51194/data-cleaning-challenge-handling-missing-values<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://stefvanbuuren.name/fimd/missing-data-pattern.html<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://www.ethz.ch/content/dam/ethz/special-interest/math/statistics/sfs/Education/Advanced%20Studies%20in%20Applied%20Statistics/course-material-1719/Multivariate/w10-in-class-exercise-imputation-solution.pdf<ept id="7">)</ept>, <bpt id="8">[</bpt>4<ept id="8">]</ept><bpt id="9">(</bpt>http://uc-r.github.io/missing_values<ept id="9">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source xml:lang="en-US">- Convert Values Type</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Different data types<ept id="1">]</ept><bpt id="2">(</bpt>https://pbpython.com/pandas_dtypes.html<ept id="2">)</ept> carries different information, and you need to care about this.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.geeksforgeeks.org/python-pandas-series-astype-to-convert-data-type-of-series/<ept id="2">)</ept> is a good tutorial on how to convert type values.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source xml:lang="en-US">Remember that Python has some shortcut for doing this (executing str(3) will give you back the "3" string) but I recommend you to learn how to do it with Pandas.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source xml:lang="en-US">- Remove Duplicates</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source xml:lang="en-US">You don't want to duplicate data, they both are noise and occupy space!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source xml:lang="en-US">Learn <bpt id="1">[</bpt>how to handle them simply<ept id="1">]</ept><bpt id="2">(</bpt>https://www.geeksforgeeks.org/python-pandas-dataframe-drop_duplicates/<ept id="2">)</ept> with Pandas.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source xml:lang="en-US">- Change Text to Lower/Upper Case</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source xml:lang="en-US">You want to <bpt id="1">_</bpt>Capitalize<ept id="1">_</ept> names, or maybe make them uniform (some people can enter data with or without capital letters!).</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source xml:lang="en-US">Check <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.geeksforgeeks.org/python-pandas-series-str-lower-upper-and-title/<ept id="2">)</ept> for the Pandas way to do it.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source xml:lang="en-US">- Spell Check</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source xml:lang="en-US">You want to correct wrong words, for the sake of evenness.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source xml:lang="en-US">Check <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.tutorialspoint.com/python/python_spelling_check.htm<ept id="2">)</ept> for a good Python module to do it.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source xml:lang="en-US">Also, this is a good starting point to <bpt id="1">[</bpt>implement it<ept id="1">]</ept><bpt id="2">(</bpt>https://stackoverflow.com/questions/46409475/spell-checker-in-pandas<ept id="2">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Best practices and exercises:<ept id="1">_</ept> <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://stackoverflow.com/questions/7315114/spell-check-program-in-python<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://norvig.com/spell-correct.html<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://github.com/garytse89/Python-Exercises/tree/master/autoCorrect<ept id="7">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source xml:lang="en-US">- Reshape your data</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source xml:lang="en-US">Maybe you're going to feed your data into a neural network or show them in a colorful bars plot.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source xml:lang="en-US">Anyway, you need to transform your data and give them the right shape for your data pipeline.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://towardsdatascience.com/seven-clean-steps-to-reshape-your-data-with-pandas-or-how-i-use-python-where-excel-fails-62061f86ef9c<ept id="2">)</ept> is a very good tutorial for this task.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Best practices and exercises:<ept id="1">_</ept> <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://discuss.codecademy.com/t/faq-data-cleaning-with-pandas-reshaping-your-data/384794<ept id="5">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source xml:lang="en-US">- Dealing with Special Characters</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source xml:lang="en-US">UTF-encoding is the standard to follow, but remember that not everyone follows the rules (otherwise, we'd not need <bpt id="1">[</bpt>crime predictive analytics<ept id="1">]</ept><bpt id="2">(</bpt>http://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1633&amp;context=etd_projects<ept id="2">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source xml:lang="en-US">You can learn <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://stackoverflow.com/questions/45596529/replacing-special-characters-in-pandas-dataframe<ept id="2">)</ept> how to deal with strange accents or special characters.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Best practices and exercises:<ept id="1">_</ept> <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://www.w3resource.com/python-exercises/python-basic-exercise-92.php<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://stackoverflow.com/questions/22518703/escape-sequences-exercise-in-python?rq=1<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://learnpythonthehardway.org/book/ex2.html<ept id="7">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source xml:lang="en-US">- Normalizing Dates</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source xml:lang="en-US">I think there could be one hundred ways to write down a date.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source xml:lang="en-US">You need to decide your format and make them uniform across your dataset, and <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://medium.com/jbennetcodes/dealing-with-datetimes-like-a-pro-in-pandas-b80d3d808a7f<ept id="2">)</ept> you learn how to do it.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Best practices and exercises:<ept id="1">_</ept> <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://www.w3resource.com/python-exercises/python-conditional-exercise-41.php<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://www.w3resource.com/python-exercises/date-time-exercise/<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://www.kaggle.com/anezka/data-cleaning-challenge-parsing-dates<ept id="7">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source xml:lang="en-US">- Verification to enrich data</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source xml:lang="en-US">Sometimes can be useful to engineer some data, for example: suppose you're dealing with <bpt id="1">[</bpt>e-commerce data<ept id="1">]</ept><bpt id="2">(</bpt>https://www.edataindia.com/why-data-cleansing-is-important/<ept id="2">)</ept>, and you have the prices of each object sold.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source xml:lang="en-US">You may want to add a new column in your dataset, with a label carrying handy information like a Price_level <bpt id="1">[</bpt>low, medium, high<ept id="1">]</ept> based on upper and lower bounds you can decide.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source xml:lang="en-US">This is really simple in Pandas, check <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://stackoverflow.com/questions/19913659/pandas-conditional-creation-of-a-series-dataframe-column<ept id="2">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source xml:lang="en-US">Another example is to add a Gender column (M, F) to easily explore data and gain insights in a customers dataset.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Best practices and exercises:<ept id="1">_</ept> <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>http://www.inweb.org.br/w3c/dataenrichment/<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://solutionsreview.com/data-integration/best-practices-for-data-enrichment-after-etl/<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>http://www.inweb.org.br/w3c/dataenrichment/<ept id="7">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source xml:lang="en-US">- Data Discretization</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source xml:lang="en-US">Many Machine Learning and Data Analysis methods cannot handle continuous data, and dealing with them can be computationally prohibitive.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=TF3_6lwITQg<ept id="2">)</ept> you find a good video explaining why and how you need to discretize data.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Best practices and exercises:<ept id="1">_</ept> <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://www.researchgate.net/post/What_are_the_best_methods_for_discretization_of_continuous_features<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://towardsdatascience.com/discretisation-using-decision-trees-21910483fa4b<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://docs.microsoft.com/en-us/sql/analysis-services/data-mining/discretization-methods-data-mining<ept id="7">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source xml:lang="en-US">- Feature Scaling</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source xml:lang="en-US">Feature scaling is a method used to standardize the range of independent variables or features of data.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source xml:lang="en-US">In data processing, it is also known as data normalization and is generally performed during the data preprocessing step.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">[</bpt>here<ept id="2">]</ept>(Feature scaling is a method used to standardize the range of independent variables or features of data.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source xml:lang="en-US">In data processing, it is also known as data normalization and is generally performed during the data preprocessing step.) you find a serious tutorial about this fundamental step.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Best practices and exercises:<ept id="1">_</ept> <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://www.kaggle.com/jfeng1023/data-cleaning-challenge-scale-and-normalize-data<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://www.quora.com/When-should-you-perform-feature-scaling-and-mean-normalization-on-the-given-data-What-are-the-advantages-of-these-techniques<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://www.quora.com/When-do-I-have-to-do-feature-scaling-in-machine-learning<ept id="7">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source xml:lang="en-US">- Data Cleaning Tools</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source xml:lang="en-US">You're not going to hunt tigers without a rifle!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source xml:lang="en-US">You have a ton of tools out there that will help you during the data cleaning process, the one I want to suggest you is <bpt id="1">[</bpt>this<ept id="1">]</ept><bpt id="2">(</bpt>https://www.analyticsindiamag.com/10-best-data-cleaning-tools-get-data/<ept id="2">)</ept> open source tool from Google.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source xml:lang="en-US">Check <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.quora.com/What-are-the-best-open-source-data-cleansing-tools-software-available<ept id="2">)</ept> for more.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source xml:lang="en-US"> </source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source xml:lang="en-US">- Merge Data Sets and Integration</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source xml:lang="en-US">Now that you hopefully have been successful in your data cleaning process, you can merge data from different source to create big <bpt id="1">[</bpt>de-normalized<ept id="1">]</ept><bpt id="2">(</bpt>https://www.researchgate.net/post/When_and_why_do_we_need_data_normalization_in_data_mining_algorithms<ept id="2">)</ept> data tables, ready to be explored and consumed.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This<ept id="1">]</ept><bpt id="2">(</bpt>https://www.quora.com/Is-data-warehouse-normalized-or-denormalized-Why<ept id="2">)</ept> is why.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Best practices and exercises:<ept id="1">_</ept> <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://www.ssc.wisc.edu/sscc/pubs/sfr-combine.htm<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://rpubs.com/wsundstrom/t_merge<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html<ept id="7">)</ept>, <bpt id="8">[</bpt>4<ept id="8">]</ept><bpt id="9">(</bpt>https://searchbusinessanalytics.techtarget.com/feature/Using-data-merging-and-concatenation-techniques-to-integrate-data<ept id="9">)</ept>, <bpt id="10">[</bpt>5<ept id="10">]</ept><bpt id="11">(</bpt>https://www.analyticsvidhya.com/blog/2016/06/9-challenges-data-merging-subsetting-r-python-beginner/<ept id="11">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source xml:lang="en-US">- Sanity Check</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source xml:lang="en-US">You always want to be sure that your data are <bpt id="1">_</bpt>exactly<ept id="1">_</ept> how you want them to be, and because of this is a good rule of thumb to apply a sanity check after each complete iteration of the data preprocessing pipeline (i.e. each step we have seen until now)
+Look <bpt id="2">[</bpt>here<ept id="2">]</ept><bpt id="3">(</bpt>https://www.trifacta.com/blog/4-key-steps-to-sanity-checking-your-data/<ept id="3">)</ept> for a good overview.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source xml:lang="en-US">Depending on your case, the sanity check can vary a lot.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Best practices and exercises:<ept id="1">_</ept> <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://blog.socialcops.com/academy/resources/4-data-checks-clean-data/<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://www.r-bloggers.com/data-sanity-checks-data-proofer-and-r-analogues/<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://www.quora.com/What-is-the-example-of-Sanity-testing-and-smoke-testing<ept id="7">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source xml:lang="en-US">- Automate These Boring Stuffs!</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source xml:lang="en-US">As I told you at the very beginning, the data preprocessing process can take a long time and be very tedious.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source xml:lang="en-US">Because of this, you want to <bpt id="1">[</bpt>automate<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=UZUoH7_mYx4<ept id="2">)</ept> the most you can.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source xml:lang="en-US">Also, <bpt id="1">**</bpt>automation is married with iteration<ept id="1">**</ept>, so this is the way you need to plan your data preprocessing pipelines.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://github.com/mdkearns/automated-data-preprocessing<ept id="2">)</ept> you find a good command line tool for doing that, but I'm almost sure you'll need to build your own (remember, each problem is unique!), but this is a good starting point.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>Best practices and exercises:<ept id="1">_</ept> <bpt id="2">[</bpt>1<ept id="2">]</ept><bpt id="3">(</bpt>https://blog.panoply.io/5-data-preparation-tools-1-automated-data-platform<ept id="3">)</ept>, <bpt id="4">[</bpt>2<ept id="4">]</ept><bpt id="5">(</bpt>https://www.quora.com/How-do-I-make-an-automated-data-cleaning-in-Python-for-ML-Is-there-a-trick-for-that<ept id="5">)</ept>, <bpt id="6">[</bpt>3<ept id="6">]</ept><bpt id="7">(</bpt>https://www.quora.com/Is-there-a-python-package-to-automate-data-preparation-in-machine-learning<ept id="7">)</ept>, <bpt id="8">[</bpt>4<ept id="8">]</ept><bpt id="9">(</bpt>https://machinelearningmastery.com/prepare-data-machine-learning-python-scikit-learn/<ept id="9">)</ept>, <bpt id="10">[</bpt>5<ept id="10">]</ept><bpt id="11">(</bpt>https://www.analyticsvidhya.com/blog/2018/10/rapidminer-data-preparation-machine-learning/<ept id="11">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source xml:lang="en-US">Conclusion</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source xml:lang="en-US">Now you're ready to take your data and play with them in a variety of ways, and you have a nice panoramic overview of the entire process.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source xml:lang="en-US">You can refer to this page when you clean data, to check if you're not missing some steps.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source xml:lang="en-US">Remember that probably each situation requires a subset of these steps.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+    </body>
+ </file>
+</xliff>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="README.md"
+    source-language="en-US" target-language="zh-Hans" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="README.zh-Hans.skl"/>
+      </skl>
+    </header>
+    <body>
+      <trans-unit id="1">
+        <source xml:lang="en-US"><bpt id="1">![</bpt>Figure 1-1<ept id="1">]</ept><bpt id="2">(</bpt>https://raw.github.com/clone95/Data-Science-Study-Paths-March-2019/master/RoadMap1.png "1"<ept id="2">)</ept> </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:lang="en-US">What Is This Place?</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:lang="en-US">Studying through the Internet means swimming in an infinite jungle of chaotic information, even more so in rapidly changing innovative fields.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:lang="en-US">Have you ever felt overwhelmed when trying to approach a new subject without a real “path” to follow?</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:lang="en-US">Were you hindered from obtaining deep knowledge and the ability to apply it?</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:lang="en-US">Hi, I'm <bpt id="1">[</bpt>Virgilio<ept id="1">]</ept><bpt id="2">(</bpt>https://en.wikipedia.org/wiki/Virgil<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:lang="en-US">Like I did with Dante, just some centuries ago, I'll be your mentor and reference point during your journey through the Internet, providing you complete and organic learning paths for several fields, tools, skills and more.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:lang="en-US">How Did I Do This?</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:lang="en-US">I've tried to be concise to avoid information overhead.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:lang="en-US">I organized the contents hierarchically and by the level of complexity to give you a coherent idea of how things work.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:lang="en-US">  </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:lang="en-US">You will learn to understand and apply theory with hands-on projects and by carefully following my hints and tips, you will master new skills from scratch.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:lang="en-US">You do not require any prior knowledge of the topics, but be confident with programming and high school-level math to understand and implement most of the concepts.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source xml:lang="en-US">Every source listed here is free or open source.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source xml:lang="en-US">My biggest interest is Data Science since I tried to predict the fall of Jerusalem, but you know, at that time we didn't have so much computational power!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source xml:lang="en-US">What Can You Find Here?</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source xml:lang="en-US">I've packed several types of guides for you: </source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source xml:lang="en-US">Careers: complete learning paths that guide you through mastering a new skill from scratch.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source xml:lang="en-US">Topics: comprehensive guides about a specific topic, methodology and real-world application organized by sub-field.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source xml:lang="en-US">Specializations: vertical guides on individual skills.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source xml:lang="en-US">Tools: in-depth guides on a single tool or technology.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source xml:lang="en-US">Research: Up-to-date review and explanation of state-of-the-art papers and technical documents.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source xml:lang="en-US">Meta: these are mostly guides on how to study and approach new concepts.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source xml:lang="en-US">If you find this repository useful, I ask you to leave a star, share it with your friends and colleagues and click on "watch", because this is being updated daily!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source xml:lang="en-US">What Is My Purpose?</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source xml:lang="en-US">My objective is mostly to help people out there getting started with innovative fields and technologies, and even if you've never tried to write code, or you need a deep math review, I'll give you this kind of basis as well.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source xml:lang="en-US">So, you can be a student, a worker in another field or a manager, and you'll find here everything you need to be prepared for the disrupting and unpredictable transformation of the market and society that will happen for sure during the next years.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source xml:lang="en-US">Careers</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Machine Learning Career<ept id="1">]</ept><bpt id="2">(</bpt>Careers/Machine%20Learning%20Engineer%20Career%20Path<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source xml:lang="en-US">Business Intelligence Career --  Coming Soon</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source xml:lang="en-US">Cloud Computing Career --  Coming Soon</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source xml:lang="en-US">Specializations</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source xml:lang="en-US">- <bpt id="1">[</bpt>Data Preprocessing<ept id="1">]</ept><bpt id="2">(</bpt>Specializations/HardSkills/DataPreprocessing.md<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source xml:lang="en-US">- Data Collection  <bpt id="1">[</bpt>Coming Soon - Next<ept id="1">]</ept><bpt id="2">[</bpt>coming soon - next<ept id="2">]</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source xml:lang="en-US">- Data Visualization  <bpt id="1">[</bpt>Coming Soon<ept id="1">]</ept><bpt id="2">[</bpt>coming soon<ept id="2">]</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source xml:lang="en-US">- Effective Communication <bpt id="1">[</bpt>Coming Soon<ept id="1">]</ept><bpt id="2">[</bpt>coming soon<ept id="2">]</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source xml:lang="en-US">- <bpt id="1">[</bpt>Impactful Presentations -- <bpt id="2">**</bpt>NEW<ept id="2">**</ept><ept id="1">]</ept><bpt id="3">(</bpt>Specializations/SoftSkills/ImpactfulPresentations.md<ept id="3">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source xml:lang="en-US">- Pragmatic Decision Making  <bpt id="1">[</bpt>Coming Soon<ept id="1">]</ept><bpt id="2">[</bpt>coming soon<ept id="2">]</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source xml:lang="en-US">Tools</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source xml:lang="en-US">- <bpt id="1">[</bpt>Latex<ept id="1">]</ept><bpt id="2">(</bpt>Tools/Latex.md<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source xml:lang="en-US">- <bpt id="1">[</bpt>Wolfram Alpha<ept id="1">]</ept><bpt id="2">(</bpt>Tools/WolframAlpha.md<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source xml:lang="en-US">- <bpt id="1">[</bpt>GeoGebra<ept id="1">]</ept><bpt id="2">(</bpt>Tools/GeoGebra.md<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source xml:lang="en-US">- A Lot More Coming Soon!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source xml:lang="en-US">Topics</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source xml:lang="en-US">- <bpt id="1">[</bpt>Chatbots with DialogFlow and Flask<ept id="1">]</ept><bpt id="2">(</bpt>Topics/DialogFlow.md<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source xml:lang="en-US">Research</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source xml:lang="en-US">- <bpt id="1">[</bpt>Zotero<ept id="1">]</ept><bpt id="2">(</bpt>Research/Zotero.md<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source xml:lang="en-US">- State-of-art papers <bpt id="1">[</bpt>Coming Soon<ept id="1">]</ept><bpt id="2">[</bpt>coming soon<ept id="2">]</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source xml:lang="en-US">About Specializations</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source xml:lang="en-US">You can take them in order or choose the one that fits you the most, but I recommend you to walk through them all at least once.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source xml:lang="en-US">I've planned two types of Specializations: Hard skills and Soft skills</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source xml:lang="en-US">The former is about technical processes that are the core toolkit for everyone working with data.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source xml:lang="en-US">Working with data is an art form, and the rules of thumb and best practices will help you understand the way to deal with them.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source xml:lang="en-US">You need to develop a "sense" of what to do with the data and this "sense" is primarily driven by the situation and the experience.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source xml:lang="en-US">Because of that, these specializations will be strongly focused on exercises and practice.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source xml:lang="en-US">The latter is about... everything that's not written in technical books.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source xml:lang="en-US">Use and master them, because they are the real value enabler for you.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source xml:lang="en-US">You can be the best developer or engineer in the world, but if you can't communicate your suggestions and discoveries to your audience, or use data to suggest practical actions in the real world, you're useless for a company.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source xml:lang="en-US">About Topics</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source xml:lang="en-US">Single topics will be split by field and they can touch real-world applications, methodologies, technological stacks, best practices and more.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source xml:lang="en-US">About Tools</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source xml:lang="en-US">The Tools section will host several guides about everything you need to know about a particular technology/language/methodology!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source xml:lang="en-US">They will give you a means of thoroughly exploring and mastering the tool at hand.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>SUBSCRIBE TO THIS FACEBOOK GROUP WHERE WE POST NEWS AND UPDATES<ept id="1">]</ept><bpt id="2">(</bpt>https://www.facebook.com/groups/mathfordatascience/<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+    </body>
+ </file>
+</xliff>

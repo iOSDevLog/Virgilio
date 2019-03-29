@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="Tools/GeoGebra.md"
+    source-language="en-US" target-language="en-US" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="Tools/GeoGebra.en-US.skl"/>
+      </skl>
+    </header>
+    <body>
+      <trans-unit id="1">
+        <source xml:lang="en-US">GeoGebra</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>GeoGebra<ept id="1">]</ept><bpt id="2">(</bpt>https://www.geogebra.org<ept id="2">)</ept> (GG) is a powerful dynamic mathematics application for all levels of education that combines geometry, algebra, spreadsheet, grapher, statistics and infinitesimal calculation into a single easy-to-use software.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:lang="en-US">The GeoGebra community is growing exponentially with millions of users based in many countries.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:lang="en-US">GeoGebra has become the leading provider of software for advanced mathematics, science support, technology, engineering and mathematics and innovations in teaching and learning around the world.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:lang="en-US">Installation</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:lang="en-US">GeoGebra applications can be used offline for <bpt id="1">[</bpt>iOS<ept id="1">]</ept><bpt id="2">(</bpt>https://itunes.apple.com/us/app/geogebra-graphing-calculator/id1146717204<ept id="2">)</ept>, <bpt id="3">[</bpt>Android<ept id="3">]</ept><bpt id="4">(</bpt>https://play.google.com/store/apps/details?id=org.geogebra.android<ept id="4">)</ept>, <bpt id="5">[</bpt>Windows<ept id="5">]</ept><bpt id="6">(</bpt>https://www.geogebra.org/download<ept id="6">)</ept>, Mac, Chromebook and Linux.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:lang="en-US">We also advise you that all installers are subject to the non-commercial license.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:lang="en-US">If you intend to install GeoGebra on several devices, you may be interested in GeoGebra Mass Installation.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:lang="en-US">Features</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:lang="en-US">Geometry, Algebra and Spreadsheet are connected and fully dynamic</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:lang="en-US">Ease of use of the interface with many powerful features</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:lang="en-US">Innovative tool for creating interactive learning resources in the form of web pages</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:lang="en-US">Open source software freely usable by non-commercial users</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source xml:lang="en-US">In the simplest way, you can make constructions containing points, vectors, segments, lines and conics as well as functions, which can then be modified dynamically with the mouse.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source xml:lang="en-US">Mathematical representations of GeoGebra</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source xml:lang="en-US">GeoGebra includes three different representations of mathematical objects: <bpt id="1">_</bpt>a graphical representation, an algebraic representation and a spreadsheet representation<ept id="1">_</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source xml:lang="en-US">These allow each of the three different representations of mathematical objects to be displayed: graphical (e. g. points, function curves), algebraic (e. g. point coordinates, equations), and in spreadsheet cells.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source xml:lang="en-US">GeoGebra applications</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source xml:lang="en-US">We will demonstrate how easy it is to use GeoGebra applications by presenting:</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Scientific Calculator<ept id="1">]</ept><bpt id="2">(</bpt>#scientific-calculator<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Graphing Calculator<ept id="1">]</ept><bpt id="2">(</bpt>#graphing-calculator<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source xml:lang="en-US">All GeoGebra applications are fully compatible because they are based on the same powerful GeoGebra math engine.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source xml:lang="en-US">Your GeoGebra folders will run in all applications and on all your devices.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source xml:lang="en-US">Scientific Calculator</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source xml:lang="en-US">The GeoGebra scientific calculator is available online via this <bpt id="1">[</bpt>site<ept id="1">]</ept><bpt id="2">(</bpt>https://www.geogebra.org/calculator<ept id="2">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source xml:lang="en-US">GeoGebra is a scientific calculator that includes:</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source xml:lang="en-US">Calculations using fractions</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source xml:lang="en-US">Trigonometric functions: <bpt id="1">`</bpt>sin<ept id="1">`</ept>, <bpt id="2">`</bpt>cos<ept id="2">`</ept>, <bpt id="3">`</bpt>tan<ept id="3">`</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source xml:lang="en-US">Statistical functions</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source xml:lang="en-US">Exponential functions and logarithms</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source xml:lang="en-US">Mode examen pour les tests</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source xml:lang="en-US">The GeoGebra scientific calculator consists of a header bar, an input bar and a scientific calculation keyboard.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source xml:lang="en-US">The scientific calculator consists of three different keyboards.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source xml:lang="en-US">The keyboards can be switched by selecting the one you want to use.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source xml:lang="en-US"><bpt id="1">_</bpt><bpt id="2">`</bpt>123<ept id="2">`</ept> keyboard<ept id="1">_</ept>: provide keys for numbers and basic mathematical operations and symbols.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source xml:lang="en-US">Keys for numbers and basic arithmetic, trigonometric and logarithmic operators are available.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source xml:lang="en-US"><bpt id="1">_</bpt><bpt id="2">`</bpt>f(x)<ept id="2">`</ept> keyboard<ept id="1">_</ept>: provide statistical and other mathematical functions.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source xml:lang="en-US"> The keys are used to select other mathematical and statistical functions.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source xml:lang="en-US"><bpt id="1">_</bpt><bpt id="2">`</bpt>ABC<ept id="2">`</ept> keyboard<ept id="1">_</ept>: contains letter keys.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source xml:lang="en-US">It includes alphabetical keys </source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source xml:lang="en-US">Graphing Calculator</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source xml:lang="en-US">The GeoGebra Graphing calculator is available online via this <bpt id="1">[</bpt>site<ept id="1">]</ept><bpt id="2">(</bpt>https://www.geogebra.org/graphing<ept id="2">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source xml:lang="en-US">This graphing calculator gives you the possibility to draw functions and to explore equations.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source xml:lang="en-US">In or to create a new curve, please type your expression in the input field.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source xml:lang="en-US">The software then traces the representative curve of your expression as you type.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source xml:lang="en-US">For example, you can draw a simple line by typing this expression <bpt id="1">`</bpt>y = 2x + 3<ept id="1">`</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source xml:lang="en-US">In order to make the graph more dynamic, you can use parameters instead of constants (as an example, <bpt id="1">`</bpt>y = ax + b<ept id="1">`</ept>).</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source xml:lang="en-US">Add cursors in the parameters by clicking on the relevant buttons or define them yourself by entering <bpt id="1">`</bpt>a=2<ept id="1">`</ept> and <bpt id="2">`</bpt>b=3<ept id="2">`</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source xml:lang="en-US">If you assign constant values to parameters such as <bpt id="1">`</bpt>a<ept id="1">`</ept> and <bpt id="2">`</bpt>b<ept id="2">`</ept>, you will automatically be able to adjust these values using cursors.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source xml:lang="en-US">Graphing Calculator features include: </source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source xml:lang="en-US">Representing functions, polar and parametric curves</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source xml:lang="en-US">Solving equations with a powerful mathematical engine</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source xml:lang="en-US">Experimenting transformations with cursors</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source xml:lang="en-US">Calculating derivatives and integrals</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source xml:lang="en-US">Making statistics and regressions with fitting lines</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source xml:lang="en-US">Created by Khaled Bayoudh.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source xml:lang="en-US">Contacts: <bpt id="1">[</bpt>mail<ept id="1">]</ept><bpt id="2">(</bpt>mailto:khaled.isimm@gmail.com<ept id="2">)</ept> <bpt id="3">[</bpt>platform<ept id="3">]</ept><bpt id="4">(</bpt>http://deep-tech.cf<ept id="4">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+    </body>
+ </file>
+</xliff>

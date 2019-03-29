@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="Tools/WolframAlpha.md"
+    source-language="en-US" target-language="zh-Hans" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="Tools/WolframAlpha.zh-Hans.skl"/>
+      </skl>
+    </header>
+    <body>
+      <trans-unit id="1">
+        <source xml:lang="en-US">WolframAlpha</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>WolframAlpha<ept id="1">]</ept><bpt id="2">(</bpt>https://www.wolframalpha.com<ept id="2">)</ept> (WA) is a computational knowledge engine, which is a very fancy way of saying that WolframAlpha is a platform that can answer your questions.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:lang="en-US">WolframAlpha is most notable for its capabilities regarding mathematics and it can be a very powerful tool to help you with your computations.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:lang="en-US">Accessing WolframAlpha</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:lang="en-US">WolframAlpha's knowledge engine can be accessed online through <bpt id="1">[</bpt>wolframalpha.com<ept id="1">]</ept><bpt id="2">(</bpt>https://www.wolframalpha.com<ept id="2">)</ept> but if you have access to a license, perhaps through your university/research center/company, you might want to install <bpt id="3">[</bpt>Wolfram Mathematica<ept id="3">]</ept><bpt id="4">(</bpt>https://www.wolfram.com/mathematica/<ept id="4">)</ept>, <bpt id="5">_</bpt>"a modern technical computing system spanning most areas of technical computing — including neural networks, machine learning, image processing, geometry, data science, visualizations, and others"<ept id="5">_</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:lang="en-US">WolframAlpha's mathematical capabilities</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:lang="en-US">This little guide will focus on teaching some of the WA's mathematical capabilities.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:lang="en-US">Please bear in mind that there is much more that it can do!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:lang="en-US">This is what we will be covering:</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Basic calculations<ept id="1">]</ept><bpt id="2">(</bpt>#basic-calculations<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Plotting functions<ept id="1">]</ept><bpt id="2">(</bpt>#plotting-functions<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Solving equations<ept id="1">]</ept><bpt id="2">(</bpt>#solving-equations<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Solving inequalities<ept id="1">]</ept><bpt id="2">(</bpt>#solving-inequalities<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Matrix algebra<ept id="1">]</ept><bpt id="2">(</bpt>#matrix-algebra<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Computing series and summations<ept id="1">]</ept><bpt id="2">(</bpt>#computing-series-and-summations<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Finding derivatives<ept id="1">]</ept><bpt id="2">(</bpt>#finding-derivatives<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Computing integrals<ept id="1">]</ept><bpt id="2">(</bpt>#computing-integrals<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Finding limits<ept id="1">]</ept><bpt id="2">(</bpt>#finding-limits<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Miscellaneous<ept id="1">]</ept><bpt id="2">(</bpt>#miscellaneous<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source xml:lang="en-US">Whenever you input something into WA, you get the link of your query, so that you can actually share what you asked and the answer given pretty easily.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source xml:lang="en-US">For example, following <bpt id="1">[</bpt>this link<ept id="1">]</ept><bpt id="2">(</bpt>https://www.wolframalpha.com/input/?i=Who+is+the+US+president<ept id="2">)</ept> you can see what WA told me when I asked him who the US president is.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source xml:lang="en-US">Through this guide, blue letters with a gray background give a link to a WA query.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source xml:lang="en-US">So if you click this -> <bpt id="1">[</bpt><bpt id="2">`</bpt>What is the 345th decimal place of pi<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=What+is+the+345th+decimal+place+of+pi<ept id="3">)</ept> you will see what WA answered me when I asked for the 345th decimal place of pi (it's 5, by the way).</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source xml:lang="en-US">Another important thing to notice is that you don't have to follow a strict syntax when asking things to WA, even though the more you can facilitate WA's life, the better.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source xml:lang="en-US">Also note that Mathematica - the language developed by the creators of WA -, uses <bpt id="1">`</bpt>[]<ept id="1">`</ept> for function calls, instead of <bpt id="2">`</bpt>()<ept id="2">`</ept>, and all function names are capitalized, so <bpt id="3">`</bpt>Sqrt[n]<ept id="3">`</ept> would give you the usual square root function, that in many languages would probably be used as <bpt id="4">`</bpt>sqrt(n)<ept id="4">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source xml:lang="en-US">This is relevant because WA supports a subset of Mathematica's functions.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source xml:lang="en-US">One final <bpt id="1">**</bpt>very important<ept id="1">**</ept> hint is that if you have Mathematica, you can get step-by-step solutions to limits, integrals and derivatives (only to name a few) by starting a command with <bpt id="2">`</bpt>==<ept id="2">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source xml:lang="en-US">Basic calculations</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source xml:lang="en-US">WolframAlpha can, of course, be used as a pretty advanced calculator.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source xml:lang="en-US">Typing in <bpt id="1">`</bpt>2^100<ept id="1">`</ept> will give you the well-known answer of <bpt id="2">`</bpt>1267650600228229401496703205376<ept id="2">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source xml:lang="en-US">Some useful operators to know include:</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source xml:lang="en-US">The usual addition <bpt id="1">`</bpt>+<ept id="1">`</ept>, subtraction <bpt id="2">`</bpt>-<ept id="2">`</ept>, multiplication <bpt id="3">`</bpt>*<ept id="3">`</ept> and division <bpt id="4">`</bpt>/<ept id="4">`</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source xml:lang="en-US">The power operator <bpt id="1">`</bpt>^<ept id="1">`</ept>, used as <bpt id="2">`</bpt>x^y<ept id="2">`</ept>, which can also be used as <bpt id="3">`</bpt>Power[x, y]<ept id="3">`</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source xml:lang="en-US">To find the remainder of a division, either type in <bpt id="1">`</bpt>x mod m<ept id="1">`</ept> or use <bpt id="2">`</bpt>Mod[x, y]<ept id="2">`</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source xml:lang="en-US">The square root is <bpt id="1">`</bpt>Sqrt[x]<ept id="1">`</ept>, and the <bpt id="2">`</bpt>n<ept id="2">`</ept>-th root of <bpt id="3">`</bpt>x<ept id="3">`</ept> is given by <bpt id="4">`</bpt>Root[x, n]<ept id="4">`</ept>, so the cubic root of 8 would be found by typing in <bpt id="5">[</bpt><bpt id="6">`</bpt>Root[8, 3]<ept id="6">`</ept><ept id="5">]</ept><bpt id="7">(</bpt>https://www.wolframalpha.com/input/?i=Root%5B8,+3%5D<ept id="7">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source xml:lang="en-US">The factorial operator can be written as <bpt id="1">`</bpt>n!<ept id="1">`</ept> or as <bpt id="2">`</bpt>Factorial[n]<ept id="2">`</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source xml:lang="en-US">The logarithm and the exponential function are respectively written as <bpt id="1">`</bpt>Log[x]<ept id="1">`</ept> and <bpt id="2">`</bpt>Exp[x]<ept id="2">`</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source xml:lang="en-US">Trigonometric functions have the usual names, but capitalized; for example, <bpt id="1">`</bpt>Tan[x]<ept id="1">`</ept>, <bpt id="2">`</bpt>Sin[x]<ept id="2">`</ept>, <bpt id="3">`</bpt>ArcCos[x]<ept id="3">`</ept> are respectively the tangent, sine and arc-cosine functions</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source xml:lang="en-US">Plotting functions</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source xml:lang="en-US">There are several different types of plots you can ask WA to do, but perhaps the most basic one would be to plot a simple function from the reals to the reals, like <bpt id="1">[</bpt>plotting x^2<ept id="1">]</ept><bpt id="2">(</bpt>https://www.wolframalpha.com/input/?i=plot+x%5E2<ept id="2">)</ept>, which can be done by typing in <bpt id="3">`</bpt>plot x^2<ept id="3">`</ept> or <bpt id="4">`</bpt>plot Power[x, 2]<ept id="4">`</ept>.\
+When plotting functions, we don't always want the range that WA suggests, so <bpt id="5">[</bpt><bpt id="6">`</bpt>plot x^2 from -5 to 1<ept id="6">`</ept><ept id="5">]</ept><bpt id="7">(</bpt>https://www.wolframalpha.com/input/?i=plot+x%5E2+from+-5+to+1<ept id="7">)</ept> would change the range from the default to the interval from -5 to 1.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source xml:lang="en-US">For simpler plots, writing in plain English what we want works just fine, but for more complex or intricated plots, we will be better of using the Mathematica syntax.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source xml:lang="en-US">So a regular plot like <bpt id="1">`</bpt>plot x^2 from -5 to 1<ept id="1">`</ept> becomes <bpt id="2">`</bpt>Plot[x^2, {x, -5, 1}]<ept id="2">`</ept>, where the function <bpt id="3">`</bpt>Plot[]<ept id="3">`</ept> is used to say we want a plot, the first argument <bpt id="4">`</bpt>x^2<ept id="4">`</ept> is the function we want to plot and the second argument <bpt id="5">`</bpt>{x, -5, 1}<ept id="5">`</ept> is a list (lists in Mathematica are denoted with <bpt id="6">`</bpt>{}<ept id="6">`</ept>) with the variable, the left limit and the right limit.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source xml:lang="en-US">So <bpt id="1">[</bpt><bpt id="2">`</bpt>Plot[x^2, {x, -5, 1}]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Plot%5Bx%5E2,+%7Bx,-5,1%7D%5D<ept id="3">)</ept> produces the same plot as before.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source xml:lang="en-US">To plot more than one function, we can give a list of functions as first argument, instead of just a function.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source xml:lang="en-US">For example, <bpt id="1">[</bpt><bpt id="2">`</bpt>Plot[ {x^2, x^3, x^4}, {x, 1, 5} ]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Plot%5B%7Bx%5E2,+x%5E3,+x%5E4%7D,+%7Bx,+1,+5%7D%5D<ept id="3">)</ept> will plot three different polynomials, from 1 to 5.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source xml:lang="en-US">To plot functions of two variables, we can use the function <bpt id="1">`</bpt>Plot3D<ept id="1">`</ept>, so if we type in <bpt id="2">[</bpt><bpt id="3">`</bpt>Plot3D[x^2 + y^2 + x*y, {x, -2, 2}, {y, -2, 0}]<ept id="3">`</ept><ept id="2">]</ept><bpt id="4">(</bpt>https://www.wolframalpha.com/input/?i=Plot3D%5Bx%5E2+%2B+y%5E2+%2B+x*y,+%7Bx,+-2,+2%7D,+%7By,+-2,+0%7D%5D<ept id="4">)</ept> we will be plotting the function <bpt id="5">`</bpt>x^2 + y^2 + xy<ept id="5">`</ept> when <bpt id="6">`</bpt>x<ept id="6">`</ept> varies between -2 and 2 and when <bpt id="7">`</bpt>y<ept id="7">`</ept> varies between -2 and 0.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source xml:lang="en-US">Solving equations</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source xml:lang="en-US">Solving equations can be done very easily.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source xml:lang="en-US">In fact, just typing in <bpt id="1">[</bpt><bpt id="2">`</bpt>solve x^2 + x - 1 = 0 for x<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=solve+x%5E2+%2B+x+-+1+%3D+0+for+x<ept id="3">)</ept> gives you what you would expect.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source xml:lang="en-US">Using Mathematica notation, you would type <bpt id="1">[</bpt><bpt id="2">`</bpt>Solve[x^2 + x - 1 == 0, x]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Solve%5Bx%5E2+%2B+x+-+1+%3D%3D+0,+x%5D<ept id="3">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source xml:lang="en-US">A great thing of WA and of Mathematica as well is their ability to do symbolic calculations, which also means your equations can have parameters or other unknowns, and WA will try to give you the answer in terms of those parameters.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source xml:lang="en-US">For example, we can ask WA for the general formula to solve a polynomial equation of degree 4 with <bpt id="1">[</bpt><bpt id="2">`</bpt>Solve[x^4 + b*x^3 + c*x^2 + d*x + e == 0, x]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Solve%5Bx%5E4+%2B+b+x%5E3+%2B+c+x%5E2+%2B+d+x+%2B+e+%3D%3D+0,+x%5D<ept id="3">)</ept> which returns the nasty formulas.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source xml:lang="en-US">The equations you want to solve do not need to be polynomial ones!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source xml:lang="en-US">For example, <bpt id="1">[</bpt><bpt id="2">`</bpt>Solve[Log[x] + Exp[x] == 1, x]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Solve%5B+Log%5Bx%5D+%2B+Exp%5Bx%5D+%3D%3D+1,+x%5D<ept id="3">)</ept> gives the value of the number <bpt id="4">`</bpt>x<ept id="4">`</ept> that solves the equation <bpt id="5">`</bpt>Log[x] + Exp[x] == 1<ept id="5">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source xml:lang="en-US">Systems of equations can also be solved.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source xml:lang="en-US">Just like you would give a list of functions to the <bpt id="1">`</bpt>Plot[]<ept id="1">`</ept>, now we give a list of equations to the <bpt id="2">`</bpt>Solve[]<ept id="2">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source xml:lang="en-US">For example, we want to solve the two equations <bpt id="1">`</bpt>Log[x] + y == 1<ept id="1">`</ept> and <bpt id="2">`</bpt>Log[x] + Log[y] == 2<ept id="2">`</ept>, which we do by typing in <bpt id="3">[</bpt><bpt id="4">`</bpt>Solve[ {Log[x] + y == 1, Log[y] + Log[x] == 2}, {x,y} ]<ept id="4">`</ept><ept id="3">]</ept><bpt id="5">(</bpt>https://www.wolframalpha.com/input/?i=Solve%5B+%7BLog%5Bx%5D+%2B+y+%3D%3D+1,+Log%5By%5D+%2B+Log%5Bx%5D+%3D%3D+2%7D,+%7Bx,y%7D+%5D<ept id="5">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source xml:lang="en-US">Two <bpt id="1">**</bpt>important<ept id="1">**</ept> things to notice here!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source xml:lang="en-US">First, the result that WA gives includes a function <bpt id="1">`</bpt>W<ept id="1">`</ept> that most people won't know;</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source xml:lang="en-US">WA helps people by writing slightly to the right what each component of the solution is, so WA actually says here that <bpt id="1">_</bpt>"W(z) is the product log function"<ept id="1">_</ept>, which we can then google for.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source xml:lang="en-US">Second, notice how the second argument of <bpt id="1">`</bpt>Solve[]<ept id="1">`</ept> was <bpt id="2">`</bpt>{x,y}<ept id="2">`</ept> and <bpt id="3">**</bpt>not<ept id="3">**</ept> <bpt id="4">`</bpt>x<ept id="4">`</ept>!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source xml:lang="en-US">We need to tell WA all the variables we have; if we only write <bpt id="1">`</bpt>x<ept id="1">`</ept>, then WA is trying to solve a different problem: <bpt id="2">[</bpt><bpt id="3">`</bpt>Solve[ {Log[x] + y == 1, Log[y] + Log[x] == 2}, x ]<ept id="3">`</ept><ept id="2">]</ept><bpt id="4">(</bpt>https://www.wolframalpha.com/input/?i=Solve%5B+%7BLog%5Bx%5D+%2B+y+%3D%3D+1,+Log%5By%5D+%2B+Log%5Bx%5D+%3D%3D+2%7D,+x+%5D<ept id="4">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source xml:lang="en-US">Solving inequalities</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source xml:lang="en-US">To solve inequalities you do it in a similar way to equations, but instead use the function <bpt id="1">`</bpt>Reduce[]<ept id="1">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source xml:lang="en-US">As an example, we solve the simultaneous system of inequalities <bpt id="1">`</bpt>x y > 3<ept id="1">`</ept> and <bpt id="2">`</bpt>x + y < 0<ept id="2">`</ept> by typing in <bpt id="3">[</bpt><bpt id="4">`</bpt>Reduce[{x + y < 0, x y > 3}, {x,y}]<ept id="4">`</ept><ept id="3">]</ept><bpt id="5">(</bpt>https://www.wolframalpha.com/input/?i=Reduce%5B%7Bx+%2B+y+%3C+0,+x+y+%3E+3%7D,+%7Bx,y%7D%5D<ept id="5">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source xml:lang="en-US">Matrix algebra</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source xml:lang="en-US">Matrices are used a lot, and sometimes we just need some place to go to check a determinant, the eigenvalues or the eigenvectors of a matrix, or maybe even invert it.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source xml:lang="en-US">You may need that, and when you do, WA has got your back.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source xml:lang="en-US">In WA, matrices are lists of lists.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source xml:lang="en-US">The outer lists collects all the rows, and the inner lists have the elements of each row, so the identity matrix of dimension 2 would be represented as <bpt id="1">[</bpt><bpt id="2">`</bpt>{ {1, 0}, {0, 1} }<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=%7B%7B1,+0%7D,+%7B0,+1%7D%7D<ept id="3">)</ept> (by just inputing the matrix WA will automatically give you plenty of information about the matrix).</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source xml:lang="en-US">To find the determinant or the trace of a matrix, you would respectively use the functions <bpt id="1">`</bpt>Det[]<ept id="1">`</ept> and <bpt id="2">`</bpt>Trace[]<ept id="2">`</ept>, so for example <bpt id="3">[</bpt><bpt id="4">`</bpt>Det[{{a, b}, {c, d}}]<ept id="4">`</ept><ept id="3">]</ept><bpt id="5">(</bpt>https://www.wolframalpha.com/input/?i=Det%5B%7B%7Ba,+b%7D,+%7Bc,+d%7D%7D%5D<ept id="5">)</ept> gives the determinant of a general 2 by 2 matrix, and <bpt id="6">[</bpt><bpt id="7">`</bpt>Trace[{{a, b}, {c, d}}]<ept id="7">`</ept><ept id="6">]</ept><bpt id="8">(</bpt>https://www.wolframalpha.com/input/?i=Trace%5B%7B%7Ba,+b%7D,+%7Bc,+d%7D%7D%5D<ept id="8">)</ept> gives its trace.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source xml:lang="en-US">To find the inverse, you use <bpt id="1">[</bpt><bpt id="2">`</bpt>Inverse[{{a, b}, {c, d}}]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Inverse%5B%7B%7Ba,+b%7D,+%7Bc,+d%7D%7D%5D<ept id="3">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source xml:lang="en-US">To ask for the eigenvalues (resp. the eigenvectors) you would type in <bpt id="1">[</bpt><bpt id="2">`</bpt>Eigenvalues[{{a, b}, {c, d}}]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Eigenvalues%5B%7B%7Ba,+b%7D,+%7Bc,+d%7D%7D%5D<ept id="3">)</ept> (resp.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source xml:lang="en-US"><bpt id="1">[</bpt><bpt id="2">`</bpt>Eigenvectors[{{a, b}, {c, d}}]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Eigenvectors%5B%7B%7Ba,+b%7D,+%7Bc,+d%7D%7D%5D<ept id="3">)</ept>), even though asking for one usually also gives the other.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source xml:lang="en-US">Of course that all of this can be done with bigger matrices, and matrices with actual numbers, not just parameters!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source xml:lang="en-US">For example, we can compute the eigenvalues of some 5 by 5 matrix, say <bpt id="1">[</bpt><bpt id="2">`</bpt>Eigenvalues[{{1,2,3,4,5},{6,7,8,9,10},{11,12,13,14,15},{16,17,18,19,20},{21,22,23,24,25}}]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Eigenvalues%5B%7B%7B1,2,3,4,5%7D,%7B6,7,8,9,10%7D,%7B11,12,13,14,15%7D,%7B16,17,18,19,20%7D,%7B21,22,23,24,25%7D%7D%5D<ept id="3">)</ept> gives <bpt id="4">`</bpt>0, 0, 0, -3.642, 68.64<ept id="4">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source xml:lang="en-US">Probably more relevant for university courses, but WA also diagonalizes matrices/finds their Jordan canonical form.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source xml:lang="en-US">For that, use <bpt id="1">[</bpt><bpt id="2">`</bpt>JordanDecomposition[{{1, 2}, {0, 3}}]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=JordanDecomposition%5B%7B%7B1,+2%7D,+%7B0,+3%7D%7D%5D<ept id="3">)</ept> which also gives the similarity matrix and the matrix in diagonal/Jordan canonical form.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source xml:lang="en-US">Computing series and summations</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source xml:lang="en-US">Another thing that Wolfram  Alpha can do is compute summations and series; both with known values and with unknown values.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source xml:lang="en-US">For example, I never know by heart what is the formula to compute the sum of the first terms of a geometric series like <bpt id="1">`</bpt>1 + x + x^2 + x^3 + ... + x^n<ept id="1">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source xml:lang="en-US">WA can help me by just inputing <bpt id="1">[</bpt><bpt id="2">`</bpt>sum x^i with i from 0 to n<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=sum+x%5Ei+with+i+from+0+to+n<ept id="3">)</ept>, which gives the formula I always forget!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source xml:lang="en-US">But then again, we would be better off using Mathematica's syntax, which for sums/series is through the function <bpt id="1">`</bpt>Sum[]<ept id="1">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source xml:lang="en-US">The first argument is the expression you want to sum, the second argument is the range of the dummy variable!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source xml:lang="en-US">For example, <bpt id="1">[</bpt><bpt id="2">`</bpt>Sum[x^i, {i, 0, n}]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Sum%5Bx%5Ei,+%7Bi,+0,+n%7D%5D<ept id="3">)</ept> gives the same result as before.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source xml:lang="en-US">We can also sum, for example, the first 20 factorials with <bpt id="1">[</bpt><bpt id="2">`</bpt>Sum[Factorial[n], {n, 1, 20}]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Sum%5BFactorial%5Bn%5D,+%7Bn,+1,+20%7D%5D<ept id="3">)</ept> (which gives <bpt id="4">`</bpt>2561327494111820313<ept id="4">`</ept> by the way).</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source xml:lang="en-US">Infinite sums, which are called series, are computed by replacing the upper limit of the dummy variable with <bpt id="1">`</bpt>infty<ept id="1">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source xml:lang="en-US">So if we input <bpt id="1">[</bpt><bpt id="2">`</bpt>Sum[1/n, {n, 1, infty}]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Sum%5B1%2Fn,+%7Bn,+1,+infty%7D%5D<ept id="3">)</ept> our dear WA lets us know that the <bpt id="4">[</bpt>harmonic series diverges<ept id="4">]</ept><bpt id="5">(</bpt>http://mathspp.blogspot.com/2018/10/twitter-proof-sum-of-inverses-diverges.html<ept id="5">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source xml:lang="en-US">Another interesting example is <bpt id="1">[</bpt><bpt id="2">`</bpt>Sum[1/n^2, {n, 1, infty}]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Sum%5B1%2Fn%5E2,+%7Bn,+1,+infty%7D%5D<ept id="3">)</ept>, which actually gives <bpt id="4">`</bpt>pi^2/6<ept id="4">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source xml:lang="en-US">Finite/infinite products work the same way, except that we use the function <bpt id="1">`</bpt>Product[]<ept id="1">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source xml:lang="en-US">For example, there is an interesting product formula that gives <bpt id="1">`</bpt>pi/2<ept id="1">`</ept>, and the first 100 terms of that product show that it is close: <bpt id="2">[</bpt><bpt id="3">`</bpt>Product[(4i^2)/((2i-1)*(2i+1)), {i, 1, 100}]<ept id="3">`</ept><ept id="2">]</ept><bpt id="4">(</bpt>https://www.wolframalpha.com/input/?i=Product%5B(4i%5E2)%2F((2i-1)*(2i%2B1)),+%7Bi,+1,+100%7D%5D<ept id="4">)</ept> is close to <bpt id="5">[</bpt><bpt id="6">`</bpt>Pi/2<ept id="6">`</ept><ept id="5">]</ept><bpt id="7">(</bpt>https://www.wolframalpha.com/input/?i=pi%2F2<ept id="7">)</ept> (more on this example in the limits section).</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source xml:lang="en-US">Finding derivatives</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source xml:lang="en-US">Differentiating a function is something that can get really nasty.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source xml:lang="en-US">Thankfully, WA does it for us with little effort!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source xml:lang="en-US">We can get some basic derivatives with <bpt id="1">[</bpt><bpt id="2">`</bpt>differentiate cos(sin(x)) wrt x<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=differentiate+cos(sin(x))+wrt+x<ept id="3">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source xml:lang="en-US">The equivalent Mathematica command would be <bpt id="1">[</bpt><bpt id="2">`</bpt>D[Cos[Sin[x]], x]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=D%5BCos%5BSin%5Bx%5D%5D,+x%5D<ept id="3">)</ept>, where the <bpt id="4">`</bpt>D<ept id="4">`</ept> stands for differentiation, probably.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source xml:lang="en-US">Notice that the first argument is the function you want to differentiate, and the second argument is the variable with respect to which you want to differentiate.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source xml:lang="en-US">Higher-order derivatives can be done by specifying the variable and the order: <bpt id="1">[</bpt><bpt id="2">`</bpt>D[x^5, {x, 5}]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=D%5Bx%5E5,+%7Bx,+5%7D%5D<ept id="3">)</ept> gives the fifth derivative of the function <bpt id="4">`</bpt>x^5<ept id="4">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source xml:lang="en-US">Functions of several variables can also be differentiated easily, as WA and Mathematica will treat as constants everything that is not the variable specified.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source xml:lang="en-US">For example, <bpt id="1">[</bpt><bpt id="2">`</bpt>D[x^2 + y^2, x]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=D%5Bx%5E2+%2B+y%5E2,+x%5D<ept id="3">)</ept> gives <bpt id="4">`</bpt>2x<ept id="4">`</ept>, obviously.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source xml:lang="en-US">To find mixed partial derivatives, just put the function as the first argument, and then all the variables you want to differentiate with respect to, in order.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source xml:lang="en-US">For example, if you want to find the mixed partial derivative of <bpt id="1">`</bpt>f<ept id="1">`</ept> with respect to <bpt id="2">`</bpt>a<ept id="2">`</ept>, then <bpt id="3">`</bpt>b<ept id="3">`</ept>, then <bpt id="4">`</bpt>c<ept id="4">`</ept>, do <bpt id="5">[</bpt><bpt id="6">`</bpt>D[f[a,b,c], a, b, c]<ept id="6">`</ept><ept id="5">]</ept><bpt id="7">(</bpt>https://www.wolframalpha.com/input/?i=D%5Bf%5Ba,b,c%5D,+a,+b,+c%5D<ept id="7">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source xml:lang="en-US">Notice how for this last one, WA returns the symbolic expression, as <bpt id="1">`</bpt>f<ept id="1">`</ept> was just some generic function.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source xml:lang="en-US">This means we can also get WA to tell us the rules of differentiation.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source xml:lang="en-US">For example, we can ask WA to differentiate the product <bpt id="1">`</bpt>f(x)g(x)<ept id="1">`</ept>: <bpt id="2">[</bpt><bpt id="3">`</bpt>D[f[x] * g[x], x]<ept id="3">`</ept><ept id="2">]</ept><bpt id="4">(</bpt>https://www.wolframalpha.com/input/?i=D%5Bf%5Bx%5D+*+g%5Bx%5D,+x%5D<ept id="4">)</ept> that gives the product rule <bpt id="5">`</bpt>(fg)' = f'g + fg'<ept id="5">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source xml:lang="en-US">Typical operations on (usually scalar) functions that include derivatives can be computed with WA as well.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source xml:lang="en-US">In the following list I assume we are working with some function <bpt id="1">`</bpt>f(x, y, z)<ept id="1">`</ept> of three variables.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source xml:lang="en-US">The number of variables can be easily changed!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source xml:lang="en-US">Gradient of <bpt id="1">`</bpt>f<ept id="1">`</ept> can be computed with <bpt id="2">[</bpt><bpt id="3">`</bpt>gradient f[x,y,z]<ept id="3">`</ept><ept id="2">]</ept><bpt id="4">(</bpt>https://www.wolframalpha.com/input/?i=gradient+f%5Bx,y,z%5D<ept id="4">)</ept> in WA and <bpt id="5">`</bpt>D[f[x,y,z], {{x,y,z}}]<ept id="5">`</ept> in Mathematica</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source xml:lang="en-US">The divergence of the vector function <bpt id="1">`</bpt>(f1(x,y,z), f2(x,y,z), f3(x,y,z))<ept id="1">`</ept> can be found with <bpt id="2">[</bpt><bpt id="3">`</bpt>divergence {f1[x,y,z], f2[x,y,z], f3[x,y,z]}<ept id="3">`</ept><ept id="2">]</ept><bpt id="4">(</bpt>https://www.wolframalpha.com/input/?i=divergence+%7Bf1%5Bx,y,z%5D,+f2%5Bx,y,z%5D,+f3%5Bx,y,z%5D%7D<ept id="4">)</ept> in WA and <bpt id="5">`</bpt>Div[{f1[x, y, z], f2[x, y, z], f3[x, y, z]}, {x, y, z}]<ept id="5">`</ept> in Mathematica</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source xml:lang="en-US">The curl is similar, expect that we replace <bpt id="1">`</bpt>divergence<ept id="1">`</ept> with <bpt id="2">`</bpt>curl<ept id="2">`</ept> for the WA computation and use the function <bpt id="3">`</bpt>Curl[]<ept id="3">`</ept> in Mathematica, instead of <bpt id="4">`</bpt>Div<ept id="4">`</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source xml:lang="en-US">Laplacian of <bpt id="1">`</bpt>f<ept id="1">`</ept> can be computed with <bpt id="2">[</bpt><bpt id="3">`</bpt>laplacian f[x,y,z]<ept id="3">`</ept><ept id="2">]</ept><bpt id="4">(</bpt>https://www.wolframalpha.com/input/?i=laplacian+f%5Bx,y,z%5D<ept id="4">)</ept> in WA and <bpt id="5">`</bpt>Laplacian[f[x, y, z], {x, y, z}]<ept id="5">`</ept> in Mathematica</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source xml:lang="en-US">Computing integrals</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source xml:lang="en-US">Unfortunately, computing integrals with WolframAlpha is very difficult...</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source xml:lang="en-US">Not!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source xml:lang="en-US">It works just like anything else.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source xml:lang="en-US">You just type it in in WA and you get an answer: <bpt id="1">[</bpt><bpt id="2">`</bpt>integrate exp(-x^2) with x from 0 to infinity<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=integrate+exp(-x%5E2)+with+x+from+0+to+infinity<ept id="3">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source xml:lang="en-US">Mathematica's way of doing things would be <bpt id="1">[</bpt><bpt id="2">`</bpt>Integrate[ Exp[-x^2], {x, 0, infty}]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Integrate%5B+Exp%5B-x%5E2%5D,+%7Bx,+0,+infty%7D%5D<ept id="3">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source xml:lang="en-US">Of course the variable of integration can be any variable and the bounds can be changed as well, and they can include plus and minus infinity.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source xml:lang="en-US">To find anti-derivatives, you just omit the bounds of the variable.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source xml:lang="en-US">For example, to find an anti-derivative of <bpt id="1">`</bpt>cos(sin(x))tan(x)<ept id="1">`</ept> we could type in <bpt id="2">[</bpt><bpt id="3">`</bpt>Integrate[Cos[Sin[x]]Tan[x], x]<ept id="3">`</ept><ept id="2">]</ept><bpt id="4">(</bpt>https://www.wolframalpha.com/input/?i=Integrate%5BCos%5BSin%5Bx%5D%5DTan%5Bx%5D,+x%5D<ept id="4">)</ept> and we get a very long answer.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source xml:lang="en-US">Sometimes WA can't find an anti-derivative, and it will let you know that.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source xml:lang="en-US">If all we need is an (accurate) numerical value and we don't need WA to give us the exact answer (which it will try to give always and whenever possible) we can explicitly use the function <bpt id="1">`</bpt>NIntegrate[]<ept id="1">`</ept> instead of <bpt id="2">`</bpt>Integrate<ept id="2">`</ept>: <bpt id="3">[</bpt><bpt id="4">`</bpt>NIntegrate[Cos[1/x + Pi/2]^5, {x,1,infty}]<ept id="4">`</ept><ept id="3">]</ept><bpt id="5">(</bpt>https://www.wolframalpha.com/input/?i=NIntegrate%5BCos%5B1%2Fx+%2B+Pi%2F2%5D%5E5,+%7Bx,1,infty%7D%5D<ept id="5">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source xml:lang="en-US">As a final remark, note that if you use WA/Mathematica to check if you are doing your antiderivatives correctly, remember that sometimes a function has more than one antiderivative.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source xml:lang="en-US">If you were trying to find the antiderivative of a function <bpt id="1">`</bpt>h<ept id="1">`</ept> and arrived at some function <bpt id="2">`</bpt>f<ept id="2">`</ept> but then WA got to a different function <bpt id="3">`</bpt>g<ept id="3">`</ept>, it doesn't necessarily mean you got it wrong!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source xml:lang="en-US">Just try deriving your function <bpt id="1">`</bpt>f<ept id="1">`</ept> and see if that gives <bpt id="2">`</bpt>h<ept id="2">`</ept>, as it should!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source xml:lang="en-US">Finding limits</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source xml:lang="en-US">To find a limit of an expression or function, just type it as you would expect it: <bpt id="1">[</bpt><bpt id="2">`</bpt>limit of 1/x as x goes to -infty<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=limit+of+1%2Fx+as+x+goes+to+-infty<ept id="3">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source xml:lang="en-US">The function one may want to use here is <bpt id="1">`</bpt>Limit[]<ept id="1">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source xml:lang="en-US">It works like almost all other function we've seen.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source xml:lang="en-US">The first argument is the expression and the second argument is the variable; the only thing to be careful here is the way in which we tell WA to where the variable is converging.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source xml:lang="en-US">The previous example would be written <bpt id="1">[</bpt><bpt id="2">`</bpt>Limit[1/x, x -> -infty]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Limit%5B1%2Fx,+x+-%3E+-infty%5D<ept id="3">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source xml:lang="en-US">It is often useful to also define the direction from which the variable approaches the limiting value.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source xml:lang="en-US">For example we know that the limit of <bpt id="1">`</bpt>1/x<ept id="1">`</ept> when <bpt id="2">`</bpt>x<ept id="2">`</ept> goes to 0 changes as <bpt id="3">`</bpt>x<ept id="3">`</ept> approaches 0 from the left or from the right.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source xml:lang="en-US">So we can actually check that <bpt id="1">[</bpt><bpt id="2">`</bpt>Limit[1/x, x -> 0^+]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Limit%5B1%2Fx,+x+-%3E+0%5E%2B%5D<ept id="3">)</ept> is different from <bpt id="4">[</bpt><bpt id="5">`</bpt>Limit[1/x, x -> 0^-]<ept id="5">`</ept><ept id="4">]</ept><bpt id="6">(</bpt>https://www.wolframalpha.com/input/?i=Limit%5B1%2Fx,+x+-%3E+0%5E-%5D<ept id="6">)</ept> where the exponent notation <bpt id="7">`</bpt>0^+<ept id="7">`</ept> and <bpt id="8">`</bpt>0^-<ept id="8">`</ept> is used to define the side from which we approach 0 here.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source xml:lang="en-US">Also, in the <bpt id="1">[</bpt>summations and series<ept id="1">]</ept><bpt id="2">(</bpt>#computing-series-and-summations<ept id="2">)</ept> I mentioned that a certain product could be used to compute <bpt id="3">`</bpt>pi/2<ept id="3">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source xml:lang="en-US">The product I am talking about is <bpt id="1">[</bpt><bpt id="2">`</bpt>Product[(4i^2)/((2i-1)*(2i+1)), {i, 1, infty}]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Product%5B(4i%5E2)%2F((2i-1)*(2i%2B1)),+%7Bi,+1,+infty%7D%5D<ept id="3">)</ept> and if you follow the link you will see that WA can't actually give you the exact value.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source xml:lang="en-US">Instead, it gave me the value of the product if I only go up to 5 terms and it gave me a <bpt id="1">**</bpt>closed<ept id="1">**</ept> formula for the product up to <bpt id="2">`</bpt>n<ept id="2">`</ept>: <bpt id="3">[</bpt><bpt id="4">`</bpt>Product[(4i^2)/((2i-1)*(2i+1)), {i, 1, n}]<ept id="4">`</ept><ept id="3">]</ept><bpt id="5">(</bpt>https://www.wolframalpha.com/input/?i=Product%5B(4i%5E2)%2F((2i-1)*(2i%2B1)),+%7Bi,+1,+n%7D%5D<ept id="5">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source xml:lang="en-US">Now I will use the <bpt id="1">`</bpt>Limit[]<ept id="1">`</ept> function to prove that I am actually not lying!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source xml:lang="en-US">If I put that closed formula inside the <bpt id="1">`</bpt>Limit<ept id="1">`</ept> function and ask <bpt id="2">`</bpt>n<ept id="2">`</ept> to go to infinity like so: <bpt id="3">[</bpt><bpt id="4">`</bpt>Limit[(Pi Gamma[1 + n]^2)/(2 Gamma[1/2 + n] Gamma[3/2 + n]), n -> infty]<ept id="4">`</ept><ept id="3">]</ept><bpt id="5">(</bpt>https://www.wolframalpha.com/input/?i=Limit%5B(Pi+Gamma%5B1+%2B+n%5D%5E2)%2F(2+Gamma%5B1%2F2+%2B+n%5D+Gamma%5B3%2F2+%2B+n%5D),+n+-%3E+infty%5D<ept id="5">)</ept>, we get the desired <bpt id="6">`</bpt>pi/2<ept id="6">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source xml:lang="en-US">Miscellaneous</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source xml:lang="en-US">To find if a number is prime, you can use the function <bpt id="1">`</bpt>PrimeQ[]<ept id="1">`</ept>, for example type <bpt id="2">[</bpt><bpt id="3">`</bpt>PrimeQ[4234523457]<ept id="3">`</ept><ept id="2">]</ept><bpt id="4">(</bpt>https://www.wolframalpha.com/input/?i=PrimeQ%5B4234523457%5D<ept id="4">)</ept> to conclude that 4234523457 is not a prime number because <bpt id="5">`</bpt>4234523457 = 3×53×97×463×593<ept id="5">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source xml:lang="en-US">Similarly, use the function <bpt id="1">`</bpt>Prime[]<ept id="1">`</ept> to find out the <bpt id="2">`</bpt>n<ept id="2">`</ept>-th prime.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source xml:lang="en-US">For example, type <bpt id="1">[</bpt><bpt id="2">`</bpt>Prime[4234523457]<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://www.wolframalpha.com/input/?i=Prime%5B4234523457%5D<ept id="3">)</ept> to find out that the 4234523457th prime is <bpt id="4">`</bpt>102951556637<ept id="4">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source xml:lang="en-US">Brought to you by the editor of the <bpt id="1">[</bpt>Mathspp Blog<ept id="1">]</ept><bpt id="2">(</bpt>https://mathspp.blogspot.com/<ept id="2">)</ept>, <bpt id="3">[</bpt>RojerGS<ept id="3">]</ept><bpt id="4">(</bpt>https://github.com/RojerGS<ept id="4">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+    </body>
+ </file>
+</xliff>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="Research/Zotero.md"
+    source-language="en-US" target-language="en-US" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="Research/Zotero.en-US.skl"/>
+      </skl>
+    </header>
+    <body>
+      <trans-unit id="1">
+        <source xml:lang="en-US">Zotero</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Zotero<ept id="1">]</ept><bpt id="2">(</bpt>https://www.zotero.org<ept id="2">)</ept> is a bibliographic reference management tool.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:lang="en-US">Used extensively in the field of research (writing studies, theses or articles), it will make it possible to collect the results of its research, keep the details (text and references) and then create a bibliography.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:lang="en-US">This effectively optimizes the management of research results and references as well as their documentation and compilation.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:lang="en-US">Installation</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:lang="en-US">Zotero tool was originally an extension for the <bpt id="1">[</bpt>Firefox<ept id="1">]</ept><bpt id="2">(</bpt>https://www.clubic.com/telecharger-fiche11003-mozilla-firefox.html<ept id="2">)</ept> browser which has since been adapted for <bpt id="3">[</bpt>Chrome<ept id="3">]</ept><bpt id="4">(</bpt>https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc<ept id="4">)</ept> and <bpt id="5">[</bpt>Opera<ept id="5">]</ept><bpt id="6">(</bpt>https://addons.opera.com/en/extensions/details/zotero-connector/?display=en<ept id="6">)</ept> as well as in a standalone version for <bpt id="7">[</bpt>Windows<ept id="7">]</ept><bpt id="8">(</bpt>https://www.zotero.org/download/<ept id="8">)</ept>, <bpt id="9">[</bpt>OS<ept id="9">]</ept><bpt id="10">(</bpt>https://www.zotero.org/download/<ept id="10">)</ept> and <bpt id="11">[</bpt>Linux<ept id="11">]</ept><bpt id="12">(</bpt>https://www.zotero.org/download/<ept id="12">)</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:lang="en-US">Windows</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:lang="en-US">Launch the setup program that you have downloaded.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:lang="en-US">OS</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:lang="en-US">After opening the <bpt id="1">`</bpt>.dmg<ept id="1">`</ept> file that you have downloaded, drop Zotero in the Applications folder.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:lang="en-US">You can then launch Zotero from Spotlight, Launchpad or the Applications folder, and add it to your Dock like any other program.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:lang="en-US">Linux</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:lang="en-US">To start Zotero, download the tarball, unzip it and open Zotero from the repository.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source xml:lang="en-US"><bpt id="1">_</bpt>After installation, make sure you also install a Zotero connector suitable for your browser<ept id="1">_</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source xml:lang="en-US">Features</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source xml:lang="en-US">The strength of Zotero lies in its many options for classifying saved pages or sections, in which you can add keywords as well as a category (article, blog post, book chapter...).</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source xml:lang="en-US">It is also possible to highlight sentences and add annotations as a note on pages.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source xml:lang="en-US">A dynamic search engine (the results are displayed as you type) is finally on board.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source xml:lang="en-US">The tool is relatively easy to learn and use in relation to its capabilities, and has become a classic used in many universities, engineering schools and research centres.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source xml:lang="en-US">Add references into your bibliography</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source xml:lang="en-US">There are many hundreds of sites and databases that are compatible with Zotero, and this number is steadily increasing.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source xml:lang="en-US">In order to check if the website you are visiting is Zotero compatible, you just have to verify the presence of one of the Zotero icons in the browser's address bar.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source xml:lang="en-US">In practical terms, there are several ways and options for adding bibliographic references:</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Automatic insertion<ept id="1">]</ept><bpt id="2">(</bpt>#automatic-insertion<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Manual insertion<ept id="1">]</ept><bpt id="2">(</bpt>#manual-insertion<ept id="2">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source xml:lang="en-US">Automatic insertion</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source xml:lang="en-US">Once a website is compatible, in order to add a reference in your bibliography, you just have to click on the icon in the address bar:</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source xml:lang="en-US">If you are on the page dedicated to the resource notice: Zotero will then import this notice into your bibliography;</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source xml:lang="en-US">If you are on a page that displays a list of resources (menu, search result, etc.), Zotero will then suggest that you select, from all the resources listed on the page, the one(s) you want to import into your bibliography </source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source xml:lang="en-US">Manual insertion</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source xml:lang="en-US">It is possible that you may want to import references into Zotero that are not available on compatible sites.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source xml:lang="en-US">In order to do this, you will have to fill in the various fields yourself and create a record manually.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source xml:lang="en-US">Afterwards, you must create an empty record and fill in the fields, then select the type of document among those proposed.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source xml:lang="en-US">Finally, all you have to do is fill in the fields.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source xml:lang="en-US">Tricks and tips</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source xml:lang="en-US">A few tips and tricks as well as some small options not developed in this guide.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source xml:lang="en-US">If you want to know to which collection(s) a reference belongs, select it in the middle column and press <bpt id="1">`</bpt>Crtl<ept id="1">`</ept> (PC) or <bpt id="2">`</bpt>Alt<ept id="2">`</ept> (Mac).</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source xml:lang="en-US">Collections containing this reference are then highlighted in yellow;</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source xml:lang="en-US">If you perform the handling described above by holding down the <bpt id="1">`</bpt>Shift<ept id="1">`</ept> button, you will generate a citation instead of a bibliography;</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source xml:lang="en-US">You can generate a chronology of your collections or library via the tool menu (gear icon) <bpt id="1">`</bpt>Create a chronology<ept id="1">`</ept>;</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source xml:lang="en-US">You can generate a report of one or more references by right-clicking and then <bpt id="1">`</bpt>Generate a report<ept id="1">`</ept>.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source xml:lang="en-US">It is an html page that you can then save, print, convert to pdf and so on.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source xml:lang="en-US">Created by Khaled Bayoudh.</source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source xml:lang="en-US">Contacts: <bpt id="1">[</bpt>mail<ept id="1">]</ept><bpt id="2">(</bpt>mailto:khaled.isimm@gmail.com<ept id="2">)</ept> <bpt id="3">[</bpt>platform<ept id="3">]</ept><bpt id="4">(</bpt>http://deep-tech.cf<ept id="4">)</ept></source>
+        <target xml:lang="en-US"></target>
+      </trans-unit>
+    </body>
+ </file>
+</xliff>

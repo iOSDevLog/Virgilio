@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="docs/template.md"
+    source-language="en-US" target-language="zh-Hans" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="docs/template.zh-Hans.skl"/>
+      </skl>
+    </header>
+    <body>
+      <trans-unit id="1">
+        <source xml:lang="en-US">This file contains a generic template for a guide about some subject X.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:lang="en-US">Please remember to:</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:lang="en-US">be consistent throughout the guide.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:lang="en-US">be as clear as possible.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:lang="en-US">write in your best English.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:lang="en-US">include examples whenever possible.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:lang="en-US">use internal links for easier navigation; an internal link to a section can be made by using the <bpt id="1">`</bpt>#<ept id="1">`</ept> sign, followed by the section name, with hyphens <bpt id="2">`</bpt>-<ept id="2">`</ept> instead of spaces (so section "Who am I" can be referenced with <bpt id="3">`</bpt>#who-am-i<ept id="3">`</ept>).</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:lang="en-US">provide relevant links if you list some prerequisites.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:lang="en-US">provide a small challenge each step of the guide, it's too easy and not effective to just walk around among topics!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:lang="en-US">Title of the guide about X</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:lang="en-US">What is X</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:lang="en-US"><bpt id="1">**</bpt>X<ept id="1">**</ept> is what we will be talking about now!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:lang="en-US">Why does X matter</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source xml:lang="en-US"><bpt id="1">**</bpt>X<ept id="1">**</ept> matters because unicorns are great!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source xml:lang="en-US">Who am I?</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source xml:lang="en-US"><bpt id="1">**</bpt>X<ept id="1">**</ept> I am definitely not a robot!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source xml:lang="en-US">Prerequisites</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source xml:lang="en-US">It would be great if you knew
+  1. this thing
+  2. this other thing
+  3. and this might be useful as well</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source xml:lang="en-US">Index</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Section A<ept id="1">]</ept><bpt id="2">(</bpt>#section-a<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Subsection A1<ept id="1">]</ept><bpt id="2">(</bpt>#subsection-a1<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Subsection A2<ept id="1">]</ept><bpt id="2">(</bpt>#subsection-a2<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Section B<ept id="1">]</ept><bpt id="2">(</bpt>#section-b<ept id="2">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source xml:lang="en-US">...</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source xml:lang="en-US">Let's dive right in!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source xml:lang="en-US">Section A</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source xml:lang="en-US">Section A is great because it is the first section of them all!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source xml:lang="en-US">And this would be another very interesting paragrah!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source xml:lang="en-US">Subsection A1</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source xml:lang="en-US">In particular, I just went deeper into subsection A1!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source xml:lang="en-US">Subsection A2</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source xml:lang="en-US">And of course there is subsection A2...</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source xml:lang="en-US">Section B</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source xml:lang="en-US">Which is then followed by Section B.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source xml:lang="en-US">Conclusions</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source xml:lang="en-US">We concluded that <bpt id="1">_</bpt>x<ept id="1">_</ept>, <bpt id="2">_</bpt>y<ept id="2">_</ept> and <bpt id="3">_</bpt>z<ept id="3">_</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source xml:lang="en-US">Further reading</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source xml:lang="en-US">You should definitely check this if you liked <bpt id="1">**</bpt>x<ept id="1">**</ept>, or read this if you liked <bpt id="2">**</bpt>y<ept id="2">**</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source xml:lang="en-US">Written by <bpt id="1">_</bpt>author<ept id="1">_</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+    </body>
+ </file>
+</xliff>

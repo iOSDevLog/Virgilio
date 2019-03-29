@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="Tools/Latex.md"
+    source-language="en-US" target-language="zh-Hans" datatype="markdown">
+    <header>
+      <skl>
+        <external-file href="Tools/Latex.zh-Hans.skl"/>
+      </skl>
+    </header>
+    <body>
+      <trans-unit id="1">
+        <source xml:lang="en-US">LaTeX</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:lang="en-US">LaTeX is a markup language (or, as said in the <bpt id="1">[</bpt>official website<ept id="1">]</ept><bpt id="2">(</bpt>https://www.latex-project.org/about/<ept id="2">)</ept>, "a document preparation system for high-quality typesetting") used to create wonderful papers and presentations.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:lang="en-US">Almost all papers you will read during your career are written using LaTeX.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:lang="en-US">So, let's see how it works!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:lang="en-US">Why LaTeX?</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:lang="en-US">For years now LaTeX has been the go-to tool whenever someone needs to create a document that will contain mathematical formulas.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:lang="en-US">LaTeX is used a lot to write scientific papers and it is also used by bloggers and scientific content creators in the internet.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:lang="en-US">You can even use LaTeX syntax on facebook messenger!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:lang="en-US">(which only renders if you are on your computer)</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:lang="en-US">Installation</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:lang="en-US">There are several LaTeX distributios, you can see a complete list <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>http://www.tug.org/interest.html#free<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:lang="en-US">Under Unix systems, you can install <bpt id="1">[</bpt>TeXLive<ept id="1">]</ept><bpt id="2">(</bpt>http://www.tug.org/texlive/<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:lang="en-US">In particular, under Ubuntu you can type in the terminal <bpt id="1">`</bpt>sudo apt-get install texlive-full<ept id="1">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source xml:lang="en-US">
+Under Windows systems, you can install <bpt id="1">[</bpt>MiKTeX<ept id="1">]</ept><bpt id="2">(</bpt>https://miktex.org/<ept id="2">)</ept> or also <bpt id="3">[</bpt>TexLive<ept id="3">]</ept><bpt id="4">(</bpt>http://www.tug.org/texlive/<ept id="4">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source xml:lang="en-US">Under MacOs, <bpt id="1">[</bpt>MacTex<ept id="1">]</ept><bpt id="2">(</bpt>http://www.tug.org/mactex/<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source xml:lang="en-US">After the installation, you need an editor to write your LaTeX document.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source xml:lang="en-US">You can use whatever editor you want (notepad, vim, nano, gedit and so on) but I recommend you to choose <bpt id="1">[</bpt>Texmaker<ept id="1">]</ept><bpt id="2">(</bpt>http://www.xm1math.net/texmaker/<ept id="2">)</ept> which is free and cross platform.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source xml:lang="en-US">It is also worth saying that Visual Studio Code with some dedicated extensions (such as <bpt id="1">[</bpt>LaTeX Workshop<ept id="1">]</ept><bpt id="2">(</bpt>https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop<ept id="2">)</ept>) is pretty good to use.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source xml:lang="en-US">Writing a document</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source xml:lang="en-US">There are tons of on-line guides about LaTeX to get you started.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source xml:lang="en-US">Among them:</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source xml:lang="en-US">A comprehensive guide can be found <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://en.wikibooks.org/wiki/LaTeX<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source xml:lang="en-US">Another cool guide <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.latex-tutorial.com/tutorials/<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This one<ept id="1">]</ept><bpt id="2">(</bpt>http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf<ept id="2">)</ept> is perfect for beginners.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source xml:lang="en-US">Also <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>http://web.mit.edu/rsi/www/pdfs/new-latex.pdf<ept id="2">)</ept> another guide.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source xml:lang="en-US">It's also possible to write your LaTeX document on-line and share it with your collaborators using <bpt id="1">[</bpt>OverLeaf<ept id="1">]</ept><bpt id="2">(</bpt>https://www.overleaf.com/<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source xml:lang="en-US">There are already lots of templates made.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source xml:lang="en-US">You can find some of them <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.latextemplates.com/<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source xml:lang="en-US">To draw awesome graphs and charts, you can use the package <bpt id="1">[</bpt>TikZ<ept id="1">]</ept><bpt id="2">(</bpt>https://en.wikipedia.org/wiki/PGF/TikZ<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source xml:lang="en-US">Also a good site to keep in mind when facing a problem with LaTeX is <bpt id="1">[</bpt>StackOverflow<ept id="1">]</ept><bpt id="2">(</bpt>https://tex.stackexchange.com/<ept id="2">)</ept> with the LaTeX dedicated section.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source xml:lang="en-US">Tools to increase productivity</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source xml:lang="en-US">The LaTeX syntax can seem daunting at first, with plenty of new commands for all the mathematical symbols you know and need to use.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This website<ept id="1">]</ept><bpt id="2">(</bpt>https://www.codecogs.com/latex/eqneditor.php<ept id="2">)</ept> allows one to write a formula online, and it also has plenty of symbols in which you can just click, generating the code you need.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source xml:lang="en-US">You can also preview your formula, so that it is easier for you to make sure everything is being properly written.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source xml:lang="en-US">Whenever you need a symbol but you don't know the command, use <bpt id="1">[</bpt>this site<ept id="1">]</ept><bpt id="2">(</bpt>http://detexify.kirelabs.org/classify.html<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source xml:lang="en-US">All you have to do is draw the symbol and then suggestions will appear on the right.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source xml:lang="en-US">Creating tables in LaTeX can be particularly annoying.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source xml:lang="en-US">I usually do it <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.tablesgenerator.com/<ept id="2">)</ept> and then ask the site to generate the appropriate code.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>MathJax<ept id="1">]</ept><bpt id="2">(</bpt>https://www.mathjax.org/<ept id="2">)</ept> is one of the ways in which you can get LaTeX to render, say, in your blog!</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source xml:lang="en-US">(example <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>http://mathspp.blogspot.com/2018/11/twitter-proof-roots-go-hand-in-hand.html<ept id="2">)</ept>, where the formulas are rendered with MathJax)</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Mathpix Snipping Tool<ept id="1">]</ept><bpt id="2">(</bpt>https://mathpix.com/<ept id="2">)</ept> helps you to convert images to LaTeX by just taking a screenshort of desired math formula.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source xml:lang="en-US">It can also recognize arrays and various math fonts.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source xml:lang="en-US">Useful Packages</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source xml:lang="en-US">Now that you know how to produce a (simple) LaTeX document, you may feel the need to write or draw particular content.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source xml:lang="en-US">To do so, you can use specific packages.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source xml:lang="en-US">All you need to do is to include them at the beginning of your document with the command <bpt id="1">`</bpt>\usepackage{name_of_the_package}<ept id="1">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source xml:lang="en-US">Displaying Math</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source xml:lang="en-US">The <bpt id="1">[</bpt><bpt id="2">`</bpt>amsmath<ept id="2">`</ept> package<ept id="1">]</ept><bpt id="3">(</bpt>https://ctan.org/pkg/amsmath<ept id="3">)</ept> provides miscellaneous enhancements for improving the information structure and printed output of documents that contain mathematical formulas, as stated in <bpt id="4">[</bpt>this useful guide<ept id="4">]</ept><bpt id="5">(</bpt>http://texdoc.net/texmf-dist/doc/latex/amsmath/amsldoc.pdf<ept id="5">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source xml:lang="en-US">Extra mathematical fonts and symbols can be used by including the <bpt id="1">[</bpt><bpt id="2">`</bpt>amssymb<ept id="2">`</ept> package<ept id="1">]</ept><bpt id="3">(</bpt>https://ctan.org/pkg/amsfonts<ept id="3">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source xml:lang="en-US">A recap can be found <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>http://milde.users.sourceforge.net/LUCR/Math/mathpackages/amssymb-symbols.pdf<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source xml:lang="en-US">Code Blocks</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source xml:lang="en-US">The <bpt id="1">[</bpt><bpt id="2">`</bpt>listings<ept id="2">`</ept> package<ept id="1">]</ept><bpt id="3">(</bpt>https://ctan.org/pkg/listings<ept id="3">)</ept> allows to insert programming code in your LaTeX document.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source xml:lang="en-US">You can highlight code, or specify your language of choice and let the package automatically colour special words, comments, etc for you.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.overleaf.com/learn/latex/Code_listing<ept id="2">)</ept> a guide with examples.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source xml:lang="en-US">Based on the previous package, <bpt id="1">[</bpt><bpt id="2">`</bpt>pythonhighlight<ept id="2">`</ept><ept id="1">]</ept><bpt id="3">(</bpt>https://ctan.org/pkg/pythonhighlight<ept id="3">)</ept> is a simple Python highlighting style to be used with LaTeX.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source xml:lang="en-US">You can find the very simple instructions <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://github.com/olivierverdier/python-latex-highlighting<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source xml:lang="en-US">To write pseudocode, you can use <bpt id="1">[</bpt>algorithms<ept id="1">]</ept><bpt id="2">(</bpt>https://ctan.org/pkg/algorithms<ept id="2">)</ept>, which consists in two packages: <bpt id="3">`</bpt>al­go­rithm<ept id="3">`</ept> and <bpt id="4">`</bpt>al­go­rith­mic<ept id="4">`</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Here<ept id="1">]</ept><bpt id="2">(</bpt>https://math-linux.com/latex-26/faq/latex-faq/article/how-to-write-algorithm-and-pseudocode-in-latex-usepackage-algorithm-usepackage-algorithmic<ept id="2">)</ept> you can find examples and useful commands.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source xml:lang="en-US">Logic</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source xml:lang="en-US">For natural deductions there's the <bpt id="1">[</bpt><bpt id="2">`</bpt>bussproofs<ept id="2">`</ept> package<ept id="1">]</ept><bpt id="3">(</bpt>https://ctan.org/pkg/bussproofs<ept id="3">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source xml:lang="en-US">You can find the user guide with examples <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.math.ucsd.edu/~sbuss/ResearchWeb/bussproofs/BussGuide2_Smith2012.pdf<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source xml:lang="en-US">If you find tedious manually writing truth tables, <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>http://www.siafoo.net/snippet/249<ept id="2">)</ept> you'll find an incredibly useful Pyhton script.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source xml:lang="en-US">It automatically generates the LaTeX code of a compiled truth table given one or more propositional logic formulas.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source xml:lang="en-US">(Note: remember that in Python you can write <bpt id="1">*</bpt>p<ept id="1">*</ept> → <bpt id="2">*</bpt>q<ept id="2">*</ept> as <bpt id="3">`</bpt>not p or q<ept id="3">`</ept> as they are logically equivalent).</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source xml:lang="en-US">Automata</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source xml:lang="en-US">To draw finite state machines with LaTeX you can use the <bpt id="1">`</bpt>tikz-automata<ept id="1">`</ept> package, <bpt id="2">[</bpt>here<ept id="2">]</ept><bpt id="3">(</bpt>https://www3.nd.edu/~kogge/courses/cse30151-fa17/Public/other/tikz_tutorial.pdf<ept id="3">)</ept> a quick tutorial.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source xml:lang="en-US">You can also automatically generate the code using <bpt id="1">[</bpt>this website<ept id="1">]</ept><bpt id="2">(</bpt>https://notendur.hi.is/aee11/automataLatexGen/<ept id="2">)</ept>.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source xml:lang="en-US">Created by Damiano Azzolini.</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source xml:lang="en-US">Contacts: <bpt id="1">[</bpt>mail<ept id="1">]</ept><bpt id="2">(</bpt>mailto:damiazz94@gmail.com<ept id="2">)</ept> <bpt id="3">[</bpt>github<ept id="3">]</ept><bpt id="4">(</bpt>https://github.com/damianoazzolini<ept id="4">)</ept></source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source xml:lang="en-US">Expanded upon by the editor of the <bpt id="1">[</bpt>Mathspp Blog<ept id="1">]</ept><bpt id="2">(</bpt>https://mathspp.blogspot.com<ept id="2">)</ept>, <bpt id="3">[</bpt>RojerGS<ept id="3">]</ept><bpt id="4">(</bpt>https://github.com/RojerGS<ept id="4">)</ept>, and by Lara Vignotto (<bpt id="5">[</bpt>mail<ept id="5">]</ept><bpt id="6">(</bpt>mailto:lara.vignotto@gmail.com<ept id="6">)</ept>, <bpt id="7">[</bpt>github<ept id="7">]</ept><bpt id="8">(</bpt>https://github.com/laravignotto<ept id="8">)</ept>)</source>
+        <target xml:lang="zh-Hans"></target>
+      </trans-unit>
+    </body>
+ </file>
+</xliff>
