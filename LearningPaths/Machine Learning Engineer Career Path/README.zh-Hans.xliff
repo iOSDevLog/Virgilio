@@ -17,7 +17,7 @@
         <target xml:lang="zh-Hans"></target>
       </trans-unit>
       <trans-unit id="3">
-        <source xml:lang="en-US">I <bpt id="1">**</bpt>strongly recommend<ept id="1">**</ept> you to buy <bpt id="2">[</bpt><bpt id="3">**</bpt>this<ept id="3">**</ept><ept id="2">]</ept><bpt id="4">(</bpt>https://www.amazon.it/Hands-Machine-Learning-Scikit-Learn-Tensorflow/dp/1491962291/ref=pd_sbs_14_1/260-9599700-1757805?_encoding=UTF8&amp;pd_rd_i=1491962291&pd_rd_r=23993915-4513-11e9-ad92-43c54a5a8a65&pd_rd_w=QNr5b&pd_rd_wg=Si7Nj&pf_rd_p=37660d27-94f1-4ebe-be01-184b332a9b15&pf_rd_r=SF0KMBGABMY3T790JY7Z&psc=1&refRID=SF0KMBGABMY3T790JY7Z<ept id="4">)</ept> phenomenal book: "Hands-On Machine Learning with Scikit-Learn and TensorFlow" by O'Reilly, which inspired me and has driven most of the organization and hierarchy of the content listed below.</source>
+        <source xml:lang="en-US">I <bpt id="1">**</bpt>strongly recommend<ept id="1">**</ept> you to buy <bpt id="2">[</bpt><bpt id="3">**</bpt>this<ept id="3">**</ept><ept id="2">]</ept><bpt id="4">(</bpt>https://www.amazon.it/Hands-Machine-Learning-Scikit-Learn-Tensorflow/dp/1491962291/ref=pd_sbs_14_1/260-9599700-1757805?_encoding=UTF8&amp;pd_rd_i=1491962291&amp;pd_rd_r=23993915-4513-11e9-ad92-43c54a5a8a65&amp;pd_rd_w=QNr5b&amp;pd_rd_wg=Si7Nj&amp;pf_rd_p=37660d27-94f1-4ebe-be01-184b332a9b15&amp;pf_rd_r=SF0KMBGABMY3T790JY7Z&amp;psc=1&amp;refRID=SF0KMBGABMY3T790JY7Z<ept id="4">)</ept> phenomenal book: "Hands-On Machine Learning with Scikit-Learn and TensorFlow" by O'Reilly, which inspired me and has driven most of the organization and hierarchy of the content listed below.</source>
         <target xml:lang="zh-Hans"></target>
       </trans-unit>
       <trans-unit id="4">
@@ -375,7 +375,7 @@ The most of the remaining math you need is <bpt id="5">[</bpt>here<ept id="5">]<
         <target xml:lang="zh-Hans"></target>
       </trans-unit>
       <trans-unit id="91">
-        <source xml:lang="en-US">Check <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=W46UTQ_JDPk&amp;list=PLoR5VjrKytrCv-Vxnhp5UyS1UjZsXP0Kj&index=2<ept id="2">)</ept> the theoretical lesson from Andrew NG and then go through these examples, from the simplest to the most complex.</source>
+        <source xml:lang="en-US">Check <bpt id="1">[</bpt>here<ept id="1">]</ept><bpt id="2">(</bpt>https://www.youtube.com/watch?v=W46UTQ_JDPk&amp;list=PLoR5VjrKytrCv-Vxnhp5UyS1UjZsXP0Kj&amp;index=2<ept id="2">)</ept> the theoretical lesson from Andrew NG and then go through these examples, from the simplest to the most complex.</source>
         <target xml:lang="zh-Hans"></target>
       </trans-unit>
       <trans-unit id="92">
@@ -803,7 +803,7 @@ These <bpt id="1">[</bpt>1<ept id="1">]</ept><bpt id="2">(</bpt>https://jacobbuc
         <target xml:lang="zh-Hans"></target>
       </trans-unit>
       <trans-unit id="196">
-        <source xml:lang="en-US"><bpt id="1">[</bpt>This is a gem<ept id="1">]</ept><bpt id="2">(</bpt>https://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&dataset=circle®Dataset=reg-plane&learningRate=0.03®ularizationRate=0&noise=0&networkShape=4,2&seed=0.85356&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false<ept id="2">)</ept> and read <bpt id="3">[</bpt>this<ept id="3">]</ept><bpt id="4">(</bpt>https://www.guru99.com/artificial-neural-network-tutorial.html<ept id="4">)</ept> from the authors.</source>
+        <source xml:lang="en-US"><bpt id="1">[</bpt>This is a gem<ept id="1">]</ept><bpt id="2">(</bpt>https://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle®Dataset=reg-plane&amp;learningRate=0.03®ularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.85356&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false<ept id="2">)</ept> and read <bpt id="3">[</bpt>this<ept id="3">]</ept><bpt id="4">(</bpt>https://www.guru99.com/artificial-neural-network-tutorial.html<ept id="4">)</ept> from the authors.</source>
         <target xml:lang="zh-Hans"></target>
       </trans-unit>
       <trans-unit id="197">
@@ -1026,7 +1026,7 @@ I <bpt id="2">**</bpt>strongly recommend<ept id="2">**</ept> you to refer to <bp
       </trans-unit>
       <trans-unit id="250">
         <source xml:lang="en-US"><bpt id="1">_</bpt>Second pass:<ept id="1">_</ept>
-<bpt id="2">[</bpt>The go-to guide<ept id="2">]</ept><bpt id="3">(</bpt>https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html?utm_campaign=Data%20Machina&amp;utm_medium=email&utm_source=Revue%20newsletter<ept id="3">)</ept>.</source>
+<bpt id="2">[</bpt>The go-to guide<ept id="2">]</ept><bpt id="3">(</bpt>https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html?utm_campaign=Data%20Machina&amp;utm_medium=email&amp;utm_source=Revue%20newsletter<ept id="3">)</ept>.</source>
         <target xml:lang="zh-Hans"></target>
       </trans-unit>
       <trans-unit id="251">
@@ -1083,7 +1083,7 @@ I <bpt id="2">**</bpt>strongly recommend<ept id="2">**</ept> you to refer to <bp
         <target xml:lang="zh-Hans"></target>
       </trans-unit>
       <trans-unit id="264">
-        <source xml:lang="en-US"><bpt id="1">[</bpt>Interactive Neural Network<ept id="1">]</ept><bpt id="2">(</bpt>https://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&dataset=circle®Dataset=reg-plane&learningRate=0.03®ularizationRate=0&noise=0&networkShape=4,2&seed=0.95549&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false<ept id="2">)</ept></source>
+        <source xml:lang="en-US"><bpt id="1">[</bpt>Interactive Neural Network<ept id="1">]</ept><bpt id="2">(</bpt>https://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle®Dataset=reg-plane&amp;learningRate=0.03®ularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.95549&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false<ept id="2">)</ept></source>
         <target xml:lang="zh-Hans"></target>
       </trans-unit>
       <trans-unit id="265">
@@ -1123,7 +1123,7 @@ I <bpt id="2">**</bpt>strongly recommend<ept id="2">**</ept> you to refer to <bp
         <target xml:lang="zh-Hans"></target>
       </trans-unit>
       <trans-unit id="274">
-        <source xml:lang="en-US"><bpt id="1">[</bpt>How to build a data science portfolio<ept id="1">]</ept><bpt id="2">(</bpt>https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html?utm_campaign=Data%20Machina&amp;utm_medium=email&utm_source=Revue%20newsletter<ept id="2">)</ept></source>
+        <source xml:lang="en-US"><bpt id="1">[</bpt>How to build a data science portfolio<ept id="1">]</ept><bpt id="2">(</bpt>https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html?utm_campaign=Data%20Machina&amp;utm_medium=email&amp;utm_source=Revue%20newsletter<ept id="2">)</ept></source>
         <target xml:lang="zh-Hans"></target>
       </trans-unit>
       <trans-unit id="275">
